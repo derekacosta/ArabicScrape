@@ -1,0 +1,2 @@
+run: 
+	python ArabicScrape.py 
