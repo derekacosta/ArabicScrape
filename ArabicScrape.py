@@ -6,7 +6,8 @@ import json
 from bs4 import BeautifulSoup
 import os
 import sys
-
+import pprint
+import re
 
 data = {}
 
@@ -16,13 +17,21 @@ def scrape_title_and_url(soup, url_word):
     try:
         data[url_word] = []
         for items in soup.findAll("tr"):
-            title  = items.findAll("td")[0]
-            for content in items.findAll("td"):
+            title  = str(items.findAll("td")[0].text)
+            if str(title) != 'English':
+                for content in items.findAll("td"):
+                    if content != items.findAll("td")[0]:
+                        content = re.sub("<[^>]*>", "", content.encode_contents())
+                        if content != "" or '' or None:
+                            #if str(title) in data[i].keys():
+                            #   tem = {str(title) : str(content)}
+                            #  data[url_word].update(tem)
 
-
-                temp.append(content.contents)
-               # data[url_word].append({title : content.contents})
-                #break
+                            data[url_word].append({str(title) : str(content)})
+                    elif str(title) or title == " " or "" or '' or None:
+                        continue
+                    elif str(content) or content == " " or "" or '' or None:
+                        continue
     except:
     	pass
 
@@ -44,9 +53,10 @@ def main():
         url_split = url.split("/")[-1:]
         url_word = url_split[0].split(".")[0]
         scrape_title_and_url(soup, url_word)
-        break
 
-    print temp[]
+
+    pp = pprint.PrettyPrinter(indent=4)
+    print pp.pprint(data)
 if __name__ == "__main__":
     main()
 
