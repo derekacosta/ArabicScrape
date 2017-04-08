@@ -23,10 +23,6 @@ def scrape_title_and_url(soup, url_word):
                     if content != items.findAll("td")[0]:
                         content = re.sub("<[^>]*>", "", content.encode_contents())
                         if content != "" or '' or None:
-                            #if str(title) in data[i].keys():
-                            #   tem = {str(title) : str(content)}
-                            #  data[url_word].update(tem)
-
                             data[url_word].append({str(title) : str(content)})
                     elif str(title) or title == " " or "" or '' or None:
                         continue
