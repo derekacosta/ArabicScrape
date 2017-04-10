@@ -1,1 +1,1734 @@
-{"(a) god": ["\u0627\u0644\u0647  (\u062c)  \u0622\u0644\u0647\u0629", "ilaah (pl.) aaliha"], "(a) kiss": ["\u0642\u0628\u0644\u0629  (\u062c)  \u0642\u0628\u0644\u0627\u062a", "qubla\r\n (pl.) qubalaat"], "(a) sigh": ["\u062a\u0646\u0647\u064a\u062f\u0629  (\u062c)  \u062a\u0646\u0627\u0647\u064a\u062f", "tanhiida\r\n (pl.) tanaahiid"], "(an) activity": ["\u0646\u0634\u0627\u0637  (\u062c)  \u0646\u0634\u0627\u0637\u0627\u062a | \u0623\u0646\u0634\u0637\u0629", "na\u0161aaT (pl.) na\u0161aaTaat/an\u0161iTa"], "(an) exercise": ["\u062a\u0645\u0631\u064a\u0646  (\u062c)  \u062a\u0645\u0627\u0631\u064a\u0646 | \u062a\u0645\u0631\u064a\u0646\u0627\u062a", "tamriin (pl.) tamaariin/tamriinaat"], "Alawite": ["\u0639\u0644\u0648\u064a", "3alawi"], "BA (bachelor of arts)": ["?", "?"], "BS (bachelor of science)": ["?", "?"], "Baha'ism": ["\u0627\u0644\u0628\u0647\u0627\u0626\u064a\u0629", "al-bahaa'iyya"], "Buddhism": ["\u0627\u0644\u0628\u0648\u0630\u064a\u0629", "al-buudiyya"], "Catholic": ["\u0643\u0627\u062b\u0648\u0644\u064a\u0643", "katoliik"], "Christian": ["\u0645\u0633\u064a\u062d\u064a", "masiiHi"], "Christianity": ["\u0627\u0644\u0645\u0633\u064a\u062d\u064a\u0629", "al-masiiHiyya"], "Conservative Judaism": ["\u0627\u0644\u064a\u0647\u0648\u062f\u064a\u0629 \u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629", "al-yahuudiyya l-muHaafiZa"], "Copt": ["\u0642\u0628\u0637\u064a  (\u062c)  \u0623\u0642\u0628\u0627\u0637", "qibTi (pl.) aqbaaT"], "Druze": ["\u062f\u0631\u0648\u0632\u064a  (\u062c)  \u062f\u0631\u0648\u0632", "druuzi (pl.) druuz"], "English": ["Standard Arabic", "Transliteration"], "Friday": ["\u064a\u0648\u0645 \u0627\u0644\u062c\u0645\u0639\u0629", "yoom al-jum3a"], "God*": ["\u0627\u0644\u0644\u0647", "allaah"], "Hinduism": ["\u0627\u0644\u0647\u0646\u062f\u0648\u0633\u064a\u0629", "al-hinduusiyya"], "His Majesty": ["\u062c\u0644\u0627\u0644\u062a\u0647", "jalaalatuhu"], "His Royal Highness": ["\u0635\u0627\u062d\u0628 \u0627\u0644\u0633\u0645\u0648 \u0627\u0644\u0645\u0644\u0643\u064a", "SaaHib as-sumuuw al-malaki"], "Islam": ["\u0627\u0644\u0625\u0633\u0644\u0627\u0645", "al-islaam"], "Jainism": ["\u0627\u0644\u062c\u0627\u0646\u064a\u0629", "al-jaaniyya"], "Jesus": ["\u064a\u0633\u0648\u0639 | \u0639\u064a\u0633\u0649", "yasuu3 (used by Christians); 3iisa (used by Muslims)"], "Jew": ["\u064a\u0647\u0648\u062f\u064a  (\u062c)  \u064a\u0647\u0648\u062f", "yahuudi (pl.) yahuud"], "Judaism": ["\u0627\u0644\u064a\u0647\u0648\u062f\u064a\u0629", "al-yahuudiyya"], "Maronite": ["\u0645\u0627\u0631\u0648\u0646\u064a  (\u062c)  \u0645\u0648\u0627\u0631\u0646\u0629", "maaruuni (pl.) mawaarina"], "Ministry of Education": ["\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062a\u0631\u0628\u064a\u0629 \u0648\u0627\u0644\u062a\u0639\u0644\u064a\u0645", "wizaarat at-tarbiyya wat-ta3liim"], "Monday": ["\u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646", "yoom al-itnein"], "Muslim": ["\u0645\u0633\u0644\u0645", "muslim"], "Orthodox": ["\u0623\u0648\u0631\u062b\u0648\u062f\u0648\u0643\u0633", "ortodoks"], "Orthodox Judaism": ["\u0627\u0644\u064a\u0647\u0648\u062f\u064a\u0629 \u0627\u0644\u0623\u0631\u062b\u0648\u062f\u0648\u0643\u0633\u064a\u0629", "al-yahuudiyya l-ortodoksiyya"], "Protestant": ["\u0628\u0631\u0648\u062a\u0633\u062a\u0627\u0646\u062a", "brotestaant"], "Reform Judaism": ["\u0627\u0644\u064a\u0647\u0648\u062f\u064a\u0629 \u0627\u0644\u0625\u0635\u0644\u0627\u062d\u064a\u0629", "al-yahuudiyya l-iSlaaHiyya"], "Satan, the devil": ["\u0627\u0644\u0634\u064a\u0637\u0627\u0646  (\u062c)  \u0627\u0644\u0634\u064a\u0627\u0637\u064a\u0646", "a\u0161-\u0161eiTaan (pl.) a\u0161-\u0161ayaaTiin"], "Saturday": ["\u064a\u0648\u0645 \u0627\u0644\u0633\u0628\u062a", "yoom as-sabt"], "Shi'ite": ["\u0634\u064a\u0639\u064a  (\u062c)  \u0634\u064a\u0639\u0629", "\u0161ii3i (pl.) \u0161ii3a"], "Sikhism": ["\u0627\u0644\u0633\u064a\u062e\u064a\u0629", "as-siixiyya"], "Sufism": ["\u0627\u0644\u0635\u0648\u0641\u064a\u0629", "aS-Suufiyya"], "Sunday": ["\u064a\u0648\u0645 \u0627\u0644\u0623\u062d\u062f", "yoom al-aHad"], "Sunni": ["\u0633\u0646\u0651\u064a  (\u062c)  \u0633\u0646\u0651\u0629", "sunni (pl.) sunna"], "Taoism": ["\u0627\u0644\u0637\u0627\u0648\u064a\u0629", "aT-Taawiyya"], "Thursday": ["\u064a\u0648\u0645 \u0627\u0644\u062e\u0645\u064a\u0633", "yoom al-xamiis"], "Tuesday": ["\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621", "yoom at-tulaataa'"], "Wednesday": ["\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621", "yoom al-arbi3aa'"], "Zoroastrianism": ["\u0627\u0644\u0632\u0631\u0627\u062f\u0634\u062a\u064a\u0629", "az-zaraadi\u0161tiyyas"], "a public disgrace, scandal": ["\u062c\u0631\u0633\u0629  (\u062c)  \u062c\u0631\u0633", "jursa (pl.) juras"], "afternoon": ["\u0628\u0639\u062f \u0627\u0644\u0638\u0647\u0631", "ba3d iZ-Zuhr"], "alley; lane": ["\u062d\u0627\u0631\u0629  (\u062c)  \u062d\u0627\u0631\u0627\u062a", "Haara (pl.) Haaraat"], "ambassador": ["\u0633\u0641\u064a\u0631  (\u062c)  \u0633\u0641\u0631\u0627\u0621", "safiir (pl.) sufaraa'"], "amendment": ["\u062a\u0639\u062f\u064a\u0644  (\u062c)  \u062a\u0639\u062f\u064a\u0644\u0627\u062a", "ta3diil (pl.) ta3diilaat"], "amphibian": ["\u0628\u0631\u0645\u0627\u0626\u064a\u0629  (\u062c)  \u0628\u0631\u0645\u0627\u0626\u064a\u0627\u062a", "barmaa'iyya (pl.) barmaa'iyyaat"], "analysis": ["\u062a\u062d\u0644\u064a\u0644  (\u062c)  \u062a\u062d\u0627\u0644\u064a\u0644", "taHliil (pl.) taHaaliil"], "anarchism": ["\u0641\u0648\u0636\u0648\u064a\u0629", "fawDawiyya"], "angel": ["\u0645\u0644\u0627\u0643  (\u062c)  \u0645\u0644\u0627\u0626\u0643\u0629", "malaak (pl.) malaa'ika"], "animal": ["\u062d\u064a\u0648\u0627\u0646  (\u062c)  \u062d\u064a\u0648\u0627\u0646\u0627\u062a", "Hayawaan (pl.) Hayawaanaat"], "animals": [], "art": ["\u0641\u0646  (\u062c)  \u0641\u0646\u0648\u0646", "fann (pl.) funuun"], "artist (in general)": ["\u0641\u0646\u0627\u0646", "fannaan"], "arts": [], "atheism (atheist)": ["\u0627\u0644\u0625\u0644\u062d\u0627\u062f (\u0645\u0644\u062d\u062f)", "al-ilHaad (mulHid)"], "authority": ["\u0633\u0644\u0637\u0629  (\u062c)  \u0633\u0644\u0637\u0627\u062a", "sulTa (pl.) sulaTaat"], "baccalaureate": ["\u0628\u0643\u0627\u0644\u0648\u0631\u064a\u0627", "bakalooriyaa"], "ball": ["\u0643\u0631\u0629  (\u062c)  \u0643\u0648\u0631", "kura (pl.) kuwar"], "behind": ["\u0648\u0631\u0627\u0621", "waraa'"], "bellydance": ["\u0631\u0642\u0635 \u0634\u0631\u0642\u064a", "raqS \u0161arqi"], "bird": ["\u0637\u0627\u0626\u0631  (\u062c)  \u0637\u0627\u0626\u0631\u0627\u062a", "Taa'ir (pl.) Taa'iraat"], "bitterness": ["\u0645\u0631\u0627\u0631\u0629", "maraara"], "bloc": ["\u0643\u062a\u0644\u0629  (\u062c)  \u0643\u062a\u0644", "kutla (pl.) kutal"], "bloodless coup": ["\u0627\u0646\u0642\u0644\u0627\u0628 \u0623\u0628\u064a\u0636", "inqilaab abyaD"], "body": ["\u062c\u0633\u0645 (\u062c) \u0627\u062c\u0633\u0627\u0645", "jism (pl.) ajsaam"], "brainwashing": ["\u063a\u0633\u064a\u0644 \u062f\u0645\u0627\u063a", "\u0121asiil dimaa\u0121"], "buffalo": ["\u062c\u0627\u0645\u0648\u0633  (\u062c)  \u062c\u0648\u0627\u0645\u064a\u0633", "jaamuus (pl.) jawaamiis"], "building": ["\u0639\u0645\u0627\u0631\u0629  (\u062c)  \u0639\u0645\u0627\u0631\u0627\u062a", "3imaara (pl.) 3imaaraat"], "bull, ox": ["\u062b\u0648\u0631  (\u062c)  \u062b\u064a\u0631\u0627\u0646", "toor (pl.) tiiraan"], "calf": ["\u0639\u062c\u0644  (\u062c)  \u0639\u062c\u0648\u0644", "3ijl (pl.) 3ujuul"], "camel": ["\u062c\u0645\u0644  (\u062c)  \u062c\u0645\u0627\u0644", "jamal (pl.) jimaal"], "capitalism": ["\u0631\u0623\u0633\u0645\u0627\u0644\u064a\u0629", "ra'smaaliyya"], "cat": ["\u0642\u0637\u0651\u0629  (\u062c)  \u0642\u0637\u0637", "qiTTa (pl.) qiTaT"], "cattle, livestock": ["\u0628\u0647\u064a\u0645\u0629  (\u062c)  \u0628\u0647\u0627\u0626\u0645", "bahiima (pl.) bahaa\u2019im"], "century": ["\u0642\u0631\u0646  (\u062c)  \u0642\u0631\u0648\u0646", "qarn (pl.) quruun"], "ceramics": ["\u062e\u0632\u0641", "xazaf"], "chaotic": ["\u0647\u0645\u062c\u064a", "hamaji"], "charcoal": ["\u0641\u062d\u0645", "faHm"], "cheerful (cheerfulness)": ["\u0645\u0631\u062d \r\n(\u0645\u0631\u062d)", "mariH (maraH)"], "chicken": ["\u062f\u062c\u0627\u062c\u0629  (\u062c)  \u062f\u062c\u0627\u062c", "dajaaj(a)"], "citizen": ["\u0645\u0648\u0627\u0637\u0646  (\u062c)  \u0645\u0648\u0627\u0637\u0646\u0648\u0646", "muwaaTin (pl.) muwaaTinuun"], "city": ["\u0645\u062f\u064a\u0646\u0629  (\u062c)  \u0645\u062f\u0646", "madiina (pl.) mudun"], "civil war": ["\u062d\u0631\u0628 \u0623\u0647\u0644\u064a\u0629", "Harb ahliyya"], "class": ["\u0641\u0635\u0644 (\u062c)  \u0641\u0635\u0648\u0644", "faSl (pl.) fuSuul"], "class period": ["\u062d\u0635\u0651\u0629  (\u062c)  \u062d\u0635\u0635", "HiSSa (pl.) HiSaS"], "clay": ["\u0635\u0644\u0635\u0627\u0644", "SalSaal"], "clothes": ["\u0645\u0644\u0627\u0628\u0633", "malaabis"], "coalition government": ["\u062d\u0643\u0648\u0645\u0629 \u0627\u0626\u062a\u0644\u0627\u0641\u064a\u0629", "Hukuuma i'tilaafiyya"], "college, academy": ["\u0643\u0644\u064a\u0629  (\u062c)  \u0643\u0644\u064a\u0627\u062a", "kulliyya (pl.) kulliyyaat"], "colony": ["\u0645\u0633\u062a\u0639\u0645\u0631\u0629  (\u062c)  \u0645\u0633\u062a\u0639\u0645\u0631\u0627\u062a", "musta3mara (pl.) musta3maraat"], "color": ["\u0644\u0648\u0646  (\u062c)  \u0623\u0644\u0648\u0627\u0646", "loon (pl.) alwaan"], "colored": ["\u0645\u0644\u0648\u0651\u0646", "mulawwan"], "colors": [], "communism": ["\u0634\u064a\u0648\u0639\u064a\u0629", "\u0161uyuu3iyya"], "computer": ["\u062d\u0627\u0633\u0648\u0628  (\u062c)  \u062d\u0648\u0627\u0633\u064a\u0628", "Haasuub (pl.) Hawaasiib"], "conflict": ["\u0635\u0631\u0627\u0639", "Siraa3"], "conservative": ["\u0645\u062d\u0627\u0641\u0638", "muHaafiZ"], "constitution": ["\u062f\u0633\u062a\u0648\u0631  (\u062c)  \u062f\u0633\u0627\u062a\u064a\u0631", "dustuur (pl.) dasaatiir"], "containment": ["\u0627\u062d\u062a\u0648\u0627\u0621", "iHtiwaa'"], "content, satisfied": ["\u0631\u0627\u0636\u064a", "raaDi"], "controversy": ["\u062c\u062f\u0644", "jadal"], "corner (at an intersection)": ["\u0646\u0627\u0635\u064a\u0629  (\u062c)  \u0646\u0648\u0627\u0635", "naaSiya (pl.) nawaaSin"], "corner (of a room)": ["\u0631\u0643\u0646  (\u062c)  \u0623\u0631\u0643\u0627\u0646", "rukn (pl.) arkaan"], "country": ["\u062f\u0648\u0644\u0629  (\u062c)  \u062f\u0648\u0644", "dawla (pl.) duwal"], "coup": ["\u0627\u0646\u0642\u0644\u0627\u0628", "inqilaab"], "cow": ["\u0628\u0642\u0631\u0629  (\u062c)  \u0628\u0642\u0631\u0627\u062a", "baqara (pl.) baqaraat"], "crafts": ["\u062d\u0631\u0641  (\u0645)  \u062d\u0631\u0641\u0629", "Hirf (sing.) Hirfa"], "creation theory": ["\u0646\u0638\u0631\u064a\u0629 \u0627\u0644\u062e\u0644\u0642", "naZariyyat al-xalq"], "creed": ["\u0639\u0642\u064a\u062f\u0629  (\u062c)  \u0639\u0642\u0627\u0626\u062f \u062f\u064a\u0646\u064a\u0629", "3aqiida (pl.) 3aqaa'id diiniyya"], "crime": ["\u062c\u0631\u064a\u0645\u0629  (\u062c)  \u062c\u0631\u0627\u0626\u0645", "jariima (pl.) jaraa'im"], "crime (in general)": ["\u0627\u062c\u0631\u0627\u0645", "ijraam"], "criminal": ["\u0645\u062c\u0631\u0645  (\u062c)  \u0645\u062c\u0631\u0645\u0648\u0646", "mujrim (pl.) mujrimuun"], "crossbar": ["\u0639\u0627\u0631\u0636\u0629", "3aariDa"], "crow": ["\u063a\u0631\u0627\u0628  (\u062c)  \u063a\u0631\u0628\u0627\u0646", "\u0121uraab (pl.) \u0121irbaan"], "crown prince": ["\u0648\u0644\u064a \u0627\u0644\u0639\u0647\u062f", "waliiy al-3ahd"], "curriculum": ["\u0645\u0646\u0647\u062c  (\u062c)  \u0645\u0646\u0627\u0647\u062c", "manhaj (pl.) manaahij"], "dark": ["\u063a\u0627\u0645\u0642", "\u0121aamiq"], "dawn": ["\u0641\u062c\u0631", "fajr"], "day": ["\u064a\u0648\u0645  (\u062c)  \u0623\u064a\u0651\u0627\u0645", "yawm (pl.) ayyaam"], "debate": ["\u0633\u062c\u0627\u0644", "sijaal"], "decade": ["\u062d\u0642\u0628\u0629  (\u062c)  \u062d\u0642\u0628\u0627\u062a", "Hiqba (pl.) Hiqabaat"], "deficiency; defective, unbalanced state": ["\u062e\u0644\u0644", "xalal"], "delighted (delight)": ["\u0645\u0633\u0631\u0648\u0631 \r\n(\u0633\u0631\u0648\u0631)", "masruur (siruur)"], "democracy": ["\u062f\u064a\u0645\u0648\u0642\u0631\u0627\u0637\u064a\u0629", "diimoqraaTiyya"], "denomination": ["\u0645\u0630\u0647\u0628  (\u062c)  \u0645\u0630\u0627\u0647\u0628", "madhab (pl.) madaahib"], "department": ["\u0642\u0633\u0645  (\u062c)  \u0627\u0642\u0633\u0627\u0645", "qism (pl.) aqsaam"], "depressed": ["\u0645\u0643\u062a\u0626\u0628", "mukta'ib"], "deputy, vice, representative": ["\u0646\u0627\u0626\u0628  (\u062c)  \u0646\u0648\u0627\u0628", "naa'ib (pl.) nuwwaab"], "despair": ["\u064a\u0623\u0633", "ya's"], "despot": ["\u0637\u0627\u063a\u064a\u0629", "Taa\u0121iyya"], "dictatorship": ["\u062f\u064a\u0643\u062a\u0627\u062a\u0648\u0631\u064a\u0629", "diiktaatoriyya"], "diploma, degree (or certificate)": ["\u0634\u0647\u0627\u062f\u0629", "\u0161ahaada"], "direction": ["\u0627\u062a\u062c\u0627\u0629", "ittijaah"], "discussion": ["\u0645\u0646\u0627\u0642\u0634\u0629", "munaaqa\u0161a"], "doctorate": ["\u062f\u0643\u062a\u0648\u0631\u0627\u0647", "doctooraah"], "dog": ["\u0643\u0644\u0628  (\u062c)  \u0643\u0644\u0627\u0628", "kalb (pl.) kilaab"], "donkey": ["\u062d\u0645\u0627\u0631  (\u062c)  \u062d\u0645\u064a\u0631", "Himaar (pl.) Hamiir"], "dove": ["\u064a\u0645\u0627\u0645\u0629  (\u062c)  \u064a\u0645\u0627\u0645", "yamaam(a)"], "drawing, painting": ["\u0631\u0633\u0645  (\u062c)  \u0631\u0633\u0648\u0645", "rasm (pl.) rusuum"], "duck": ["\u0628\u0637\u0629  (\u062c)  \u0628\u0637", "baTT(a)"], "eagle": ["\u0646\u0633\u0631  (\u062c)  \u0646\u0633\u0648\u0631", "nasr (pl.) nusuur"], "east": ["\u0634\u0631\u0642", "\u0161arq"], "education": [], "elementary school": ["\u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u0627\u0628\u062a\u062f\u0627\u0626\u064a\u0629", "al-madrasa l-ibtidaa'iyya"], "emotion": ["\u0639\u0627\u0637\u0641  (\u062c)  \u0639\u0648\u0627\u0637\u0641", "3aaTif (pl.) 3awaaTif"], "emotional or sentimental": ["\u0639\u0627\u0637\u0641\u064a", "3aaTifi"], "emotions_pers": [], "empire": ["\u0627\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a\u0629  (\u062c)  \u0627\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a\u0627\u062a", "imbraaTuuriyya (pl.) imbraaTuuriyyaat"], "employment": ["\u062a\u0648\u0638\u064a\u0641", "tawZiif"], "environment": ["\u0628\u064a\u0626\u0629  (\u062c)  \u0628\u064a\u0626\u0627\u062a", "bii'a (pl.) bii'aat"], "evening": ["\u0645\u0633\u0627\u0621", "masaa'"], "exam": ["\u0627\u0645\u062a\u062d\u0627\u0646  (\u062c)  \u0627\u0645\u062a\u062d\u0627\u0646\u0627\u062a", "imtiHaan (pl.) imtiHaanaat"], "executive": ["\u062a\u0646\u0641\u064a\u0630\u064a", "tanfiidi"], "experience": ["\u062e\u0628\u0631\u0629", "xibra"], "faction": ["\u0641\u0635\u064a\u0644\u0629  (\u062c)  \u0641\u0635\u0627\u0626\u0644", "faSiila (pl.) faSaa'il"], "falcon, hawk": ["\u0635\u0642\u0631  (\u062c)  \u0635\u0642\u0648\u0631", "Saqr (pl.) Suquur"], "fascism": ["\u0641\u0627\u0634\u064a\u0629", "faa\u0161iyya"], "federal government": ["\u062d\u0643\u0648\u0645\u0629 \u0627\u062a\u062d\u0627\u062f\u064a\u0629", "Hukuuma ittiHaadiyya"], "feeling": ["\u0634\u0639\u0631  (\u062c)  \u0634\u0639\u0648\u0631", "\u0161a3r (pl.) \u0161u3uur"], "field": ["\u0645\u0644\u0639\u0628", "mal3ab"], "fight, struggle": ["\u0646\u0636\u0627\u0644", "niDaal"], "food": ["\u0637\u0639\u0627\u0645", "Ta3aam"], "foods": ["\u0645\u0623\u0643\u0648\u0644\u0627\u062a", "ma'kuulaat"], "frowning (adjective)": ["\u00a0", "\u00a0"], "game": ["\u0644\u0639\u0628\u0629  (\u062c)  \u0623\u0644\u0639\u0627\u0628", "la3ba (pl.) al3aab"], "geog": [], "glad, joyful (gladness, joy)": ["\u0641\u0631\u062d\u0627\u0646\r\n (\u0641\u0631\u062d\u0629)", "farHaan (farHa)"], "goal": ["\u0647\u062f\u0641  (\u062c)  \u0623\u0647\u062f\u0627\u0641", "hadaf (pl.) ahdaaf"], "goal line": ["\u062e\u0637 \u0627\u0644\u0645\u0631\u0645\u0649", "xaTT al-marma"], "goal post": ["\u0642\u0627\u0626\u0645", "qaa'im"], "goat": ["\u0645\u0627\u0639\u0632  (\u062c)  \u0645\u0648\u0627\u0639\u0632", "maa3iz (pl.) mawaa3iz"], "goose": ["\u0627\u0648\u0632\u0629  (\u062c)  \u0627\u0648\u0632", "iwazz(a)"], "government": ["\u062d\u0643\u0648\u0645\u0629  (\u062c)  \u062d\u0643\u0648\u0645\u0627\u062a", "Hukuuma (pl.) Hukuumaat"], "governor; ruler": ["\u062d\u0627\u0643\u0645  (\u062c)  \u062d\u0643\u0627\u0645", "Haakim  (pl.) Hukkaam"], "grade, form": ["\u0635\u0641  (\u062c)  \u0635\u0641\u0648\u0641", "Saff (pl.) Sufuuf"], "happy (happiness)": ["\u0633\u0639\u064a\u062f  (\u062c)  \r\n\u0633\u0639\u062f\u0627\u0621 (\u0633\u0639\u0627\u062f\u0629)", "sa3iid (pl.) su3adaa' (sa3aada)"], "hate": ["\u0643\u0631\u0627\u0647\u064a\u0629", "karaahiyya"], "heaven, paradise": ["\u0627\u0644\u062c\u0646\u0629", "al-janna"], "hell": ["\u0627\u0644\u0646\u0627\u0631", "an-naar (lit. \"the fire\")"], "higher education": ["\u0627\u0644\u062f\u0631\u0627\u0633\u0627\u062a \u0627\u0644\u0639\u0644\u064a\u0627", "ad-diraasaat al-3ulyaa"], "highway": ["\u0637\u0631\u064a\u0642  \u0633\u0631\u064a\u0639", "Tariiq sarii3"], "hobby": ["\u0647\u0648\u0627\u064a\u0629  (\u062c)  \u0647\u0648\u0627\u064a\u0627\u062a", "hawaaya (pl.) hawaayaat"], "homework (or duty)": ["\u0648\u0627\u062c\u0628  (\u062c)  \u0648\u0627\u062c\u0628\u0627\u062a", "waajib (pl.) waajibaat"], "horse": ["\u062d\u0635\u0627\u0646  (\u062c)  \u062d\u0635\u0646", "HiSaan (pl.) HuSun"], "hour": ["\u0633\u0627\u0639\u0629  (\u062c)  \u0633\u0627\u0639\u0627\u062a", "saa3a (pl.) saa3aat"], "house": ["\u0628\u064a\u062a  (\u062c)  \u0628\u064a\u0648\u062a", "bayt (pl.) buyuut"], "human": ["\u0625\u0646\u0633\u0627\u0646", "insaan"], "human being": ["\u0628\u0646\u064a \u0622\u062f\u0645", "bani aadam"], "human being; mankind": ["\u0628\u0634\u0631", "ba\u0161ar"], "immigrant": ["\u0645\u0647\u0627\u062c\u0631  (\u062c)  \u0645\u0647\u0627\u062c\u0631\u0648\u0646", "muhaajir (pl.) muhaajiruun"], "individual (used in the context of group membership)": ["\u0641\u0631\u062f  (\u062c)  \u0623\u0641\u0631\u0627\u062f", "fard (pl.) afraad"], "infidel": ["\u0643\u0627\u0641\u0631  (\u062c)  \u0643\u0641\u0627\u0631", "kaafir (pl.) kuffaar"], "institute": ["\u0645\u0639\u0647\u062f  (\u062c)  \u0645\u0639\u0627\u0647\u062f", "ma3had (pl.) ma3aahid"], "interview": ["\u0645\u0642\u0627\u0628\u0644\u0629 \u0634\u062e\u0635\u064a\u0629", "muqaabala \u0161axSiyya"], "job": ["\u0648\u0638\u064a\u0641\u0629  (\u062c)  \u0648\u0638\u0627\u0626\u0641", "waZiifa (pl.) waZaa'if"], "job vacancy": ["\u0648\u0638\u064a\u0641\u0629 \u0634\u0627\u063a\u0631\u0629/\u062e\u0627\u0644\u064a\u0629", "waZiifa \u0161aa\u0121ira/xaaliya"], "judicial": ["\u0642\u0636\u0627\u0626\u064a", "qaDaa'i"], "kindergarten": ["\u0631\u0648\u0636\u0629 \u0627\u0644\u0623\u0637\u0641\u0627\u0644", "rawDat al-aTfaal"], "king": ["\u0645\u0644\u0643  (\u062c)  \u0645\u0644\u0648\u0643", "malik (pl.) muluuk"], "kingdom": ["\u0645\u0645\u0644\u0643\u0629  (\u062c)  \u0645\u0645\u0627\u0644\u0643", "mamlaka (pl.) mamaalik"], "lamb": ["\u062e\u0631\u0648\u0641  (\u062c)  \u062e\u0631\u0627\u0641", "xaruuf (pl.) xiraaf"], "lecture": ["\u0645\u062d\u0627\u0636\u0631\u0629", "muHaaDara"], "left": ["\u064a\u0633\u0627\u0631", "yasaar"], "legislative": ["\u062a\u0634\u0631\u064a\u0639\u064a", "ta\u0161rii3i"], "lesson": ["\u062f\u0631\u0633  (\u062c)  \u062f\u0631\u0648\u0633", "dars (pl.) duruus"], "liberal": ["\u0644\u064a\u0628\u0631\u0627\u0644\u064a", "liibiraali"], "life": ["\u062d\u064a\u0627\u0629  (\u062c)  \u062d\u064a\u0648\u0627\u062a", "Hayaah (pl.) Hayawaat"], "light": ["\u0641\u0627\u062a\u062d", "faatiH"], "local government": ["\u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0627\u0644\u0645\u062d\u0644\u064a\u0629", "al-Hukuuma al-maHaliyya"], "longing, desire": ["\u0634\u0648\u0642", "\u0161ooq"], "lord": ["\u0631\u0628  (\u062c)  \u0623\u0631\u0628\u0627\u0628", "rabb (pl.) arbaab"], "love": ["\u062d\u0628\u0651", "Hubb"], "m_crime": [], "m_gen": [], "m_gen2": [], "m_gen3": [], "m_govt": [], "m_war": [], "major, specialization": ["\u062a\u062e\u0635\u0651\u0635  (\u062c)  \u062a\u062e\u0635\u0651\u0635\u0627\u062a \u0628\u0640", "taxaSSuS (pl.) taxaSSuSaat bi"], "mandate": ["\u0627\u0646\u062a\u062f\u0627\u0628", "intidaab"], "mankind": [], "masters'": ["\u0645\u0627\u062c\u0633\u062a\u064a\u0631", "majisteir"], "match": ["\u0645\u0628\u0627\u0631\u0627\u0629  (\u062c)  \u0645\u0628\u0627\u0631\u0627\u062a", "mubaaraah (pl.) mubaaraat"], "mayor": ["\u0639\u0645\u062f\u0629  (\u062c)  \u0639\u0645\u062f", "3umda (pl.) 3umad"], "meal": ["\u0648\u062c\u0628\u0629  (\u062c)  \u0648\u062c\u0628\u0627\u062a", "wajba (pl.) wajabaat"], "medicine": ["\u0627\u0644\u0637\u0628\u0651", "aT-Tibb"], "member": ["\u0639\u0636\u0648  (\u062c)  \u0623\u0639\u0636\u0627\u0621", "3uDw (pl.) a3Daa'"], "messiah": ["\u0645\u0633\u064a\u062d", "masiiH"], "mice": ["\u0641\u0623\u0631  (\u062c)  \u0641\u0626\u0631\u0627\u0646", "fa'r (pl.) fi'raan"], "middle school": ["\u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u0625\u0639\u062f\u0627\u062f\u064a\u0629", "al-madrasa l-i3daadiyya"], "midfield": ["\u0648\u0633\u0637 \u0627\u0644\u0645\u0644\u0639\u0628", "wasT al-mal3ab"], "midfield line": ["\u062e\u0637 \u0627\u0644\u0648\u0633\u0637", "xaTT al-wasT"], "minister": ["\u0648\u0632\u064a\u0631  (\u062c)  \u0648\u0632\u0631\u0627\u0621", "waziir (pl.) wuzaraa'"], "minute": ["\u062f\u0642\u064a\u0642\u0629  (\u062c) \u062f\u0642\u0627\u0626\u0642", "daqiiqa (pl.) daqaa'iq"], "moment": ["\u0644\u062d\u0638\u0629  (\u062c)  \u0644\u062d\u0638\u0627\u062a", "laHZa (pl.) laHaZaat"], "monarch": ["\u0639\u0627\u0647\u0644  (\u062c)  \u0639\u0648\u0627\u0647\u0644", "3aahil (pl.) 3awaahil"], "monotheism": ["\u062a\u0648\u062d\u064a\u062f\u064a\u0629", "tawHiidiyya"], "morning": ["\u0635\u0628\u0627\u062d", "SabaaH"], "mosaics": ["\u0641\u0633\u064a\u0641\u0633\u0627\u0621", "fuseifisaa'"], "movement": ["\u062d\u0631\u0643\u0629  (\u062c)  \u062d\u0631\u0643\u0627\u062a", "Haraka (pl.) Harakaat"], "murderer": ["\u0633\u0641\u0627\u062d", "saffaaH"], "music": ["\u0645\u0648\u0633\u064a\u0642\u0649", "muusiiqa"], "nation, homeland": ["\u0648\u0637\u0646  (\u062c)  \u0623\u0648\u0637\u0627\u0646", "waTan (pl.) awTaan"], "national team": ["\u0645\u0646\u062a\u062e\u0628", "muntaxab"], "nationalism": ["\u0642\u0648\u0645\u064a\u0629", "qawmiyya"], "nature": ["\u0627\u0644\u0637\u0628\u064a\u0639\u0629", "aT-Tabii3a"], "neo-conservative": ["\u0645\u062d\u0627\u0641\u0638 \u062c\u062f\u064a\u062f", "muHaafiZ jadiid"], "news": ["\u062e\u0628\u0631  (\u062c)  \u0623\u062e\u0628\u0627\u0631", "xabar (pl.) axbaar"], "nightingale": ["\u0628\u0644\u0628\u0644  (\u062c)  \u0628\u0644\u0627\u0628\u0644", "bulbul (pl.) balaabil"], "noon": ["\u0638\u0647\u0631", "Zuhr"], "north": ["\u0634\u0645\u0627\u0644", "\u0161amaal"], "nursery school": ["\u062d\u0636\u0627\u0646\u0629  (\u062c)  \u062d\u0636\u0627\u0646\u0627\u062a", "HaDaana (pl.) HaDaanaat"], "off-side": ["\u062a\u0633\u0644\u0644", "tasallul"], "official": ["\u0645\u0633\u0624\u0648\u0644  (\u062c)  \u0645\u0633\u0624\u0648\u0644\u0648\u0646", "mas'uul (pl.) mas'uuluun"], "oil paint": ["\u0637\u0644\u0627\u0621 \u0627\u0644\u0632\u064a\u062a", "Tilaa' az-zeit"], "old": ["\u0643\u0628\u064a\u0631  (\u062c)  \u0643\u0628\u0627\u0631 \u0627\u0644\u0633\u0646\u0651", "kabiir (pl.) kubaar as-sinn"], "ostrich": ["\u0646\u0639\u0627\u0645\u0629  (\u062c)  \u0646\u0639\u0627\u0645", "na3aam(a)"], "outcry, clamor": ["\u0636\u062c\u0651\u0629", "Dajja"], "owl": ["\u0628\u0648\u0645\u0629  (\u062c)  \u0628\u0648\u0645", "buum(a)"], "paganism (pagan)": ["\u0648\u062b\u0646\u064a\u0629 (\u0648\u062b\u0646\u064a)", "wataniyya (watani)"], "paint": ["\u0637\u0644\u0627\u0621", "Tilaa'"], "painter, artist": ["\u0631\u0633\u0627\u0645", "rassaam"], "pan-Arab nationalism": ["\u0627\u0644\u0642\u0648\u0645\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629", "al-qawmiyya l-3arabiyya"], "panic, alarm, phobia (of)": ["\u0647\u0644\u0639 \u0645\u0646", "hala3 min"], "parrot": ["\u0628\u0628\u063a\u0627\u0621  (\u062c)  \u0628\u0628\u063a\u0627\u0648\u0627\u062a", "bab\u0121aa' (pl.) bab\u0121aawaat"], "party": ["\u062d\u0632\u0628  (\u062c)  \u0623\u062d\u0632\u0627\u0628", "Hizb (pl.) aHzaab"], "passion": ["\u0639\u0634\u0642", "3i\u0161q"], "patriotism": ["\u0648\u0637\u0646\u064a\u0629", "waTaniyya"], "peacock": ["\u0637\u0627\u0648\u0648\u0633  (\u062c)  \u0637\u0648\u0627\u0648\u064a\u0633", "Taawuus (pl.) Tawaawiis"], "people": ["\u0646\u0627\u0633", "naas"], "people (of a country/region)": ["\u0634\u0639\u0628  (\u062c)  \u0634\u0639\u0648\u0628", "\u0161a3b (pl.) \u0161u3uub"], "person": ["\u0634\u062e\u0635  (\u062c)  \u0623\u0634\u062e\u0627\u0635", "\u0161axS (pl.) a\u0161xaaS"], "person (e.g. in a census, as a numerative in statistics)": ["\u0646\u0633\u0645\u0629  (\u062c)  \u0646\u0633\u0645\u0627\u062a", "nasama (pl.) nasamaat"], "personality": ["\u0634\u062e\u0635\u064a\u0629  (\u062c)  \r\n\u0634\u062e\u0635\u064a\u0627\u062a", "\u0161axSiyya (pl.) \u0161axSiyyaat"], "pig": ["\u062e\u0646\u0632\u064a\u0631  (\u062c)  \u062e\u0646\u0627\u0632\u064a\u0631", "xinziir (pl.) xanaaziir"], "pigeon": ["\u062d\u0645\u0627\u0645\u0629  (\u062c)  \u062d\u0645\u0627\u0645", "Hamaam(a)"], "planet": ["\u0643\u0648\u0643\u0628  (\u062c)  \u0643\u0648\u0627\u0643\u0628", "kawkab (pl.) kawaakib"], "political": ["\u0633\u064a\u0627\u0633\u064a", "siyaasi"], "politics": ["\u0627\u0644\u0633\u064a\u0627\u0633\u0629", "as-siyaasa"], "population": ["\u0639\u062f\u062f \u0633\u0643\u0627\u0646", "3adad sukkaan"], "position, office": ["\u0645\u0646\u0635\u0628  (\u062c)  \u0645\u0646\u0627\u0635\u0628", "manSib (pl.) manaaSib"], "pottery": ["\u0641\u062e\u0627\u0631", "faxxaar"], "presentation": ["\u062a\u0642\u062f\u064a\u0645  (\u062c)  \u062a\u0642\u062f\u064a\u0645\u0627\u062a", "taqdiim (pl.) taqdiimaat"], "president; chairman": ["\u0631\u0626\u064a\u0633  (\u062c)  \u0631\u0624\u0633\u0627\u0621", "ra'iis (pl.) ru'asaa'"], "prime minister": ["\u0631\u0626\u064a\u0633 \u0627\u0644\u0648\u0632\u0631\u0627\u0621", "ra'iis al-wuzaraa'"], "prince": ["\u0623\u0645\u064a\u0631  (\u062c)  \u0623\u0645\u0631\u0627\u0621", "amiir (pl.) umaraa'"], "prisoner": ["\u0623\u0633\u064a\u0631  (\u062c)  \u0623\u0633\u0631\u0649", "asiir (pl.) asra"], "profession": ["\u0645\u0647\u0646\u0629  (\u062c)  \u0645\u0647\u0646", "mihna (pl.) mihan"], "professor": ["\u0623\u0633\u062a\u0627\u0630  (\u062c)  \u0627\u0633\u0627\u062a\u0630\u0629", "ustaad (pl.) asaatida"], "program": ["\u0628\u0631\u0646\u0627\u0645\u062c  (\u062c)  \u0628\u0631\u0627\u0645\u062c", "barnaamaj (pl.) baraamij"], "promotion": ["\u062a\u0631\u0642\u064a\u0629", "tarqiyya"], "propaganda; advertising": ["\u062f\u0639\u0627\u064a\u0629", "di3aaya"], "proud (pride)": ["\u0641\u062e\u0648\u0631 (\u0641\u062e\u0631)", "faxuur\r\n (faxr)"], "proxy war": ["\u062d\u0631\u0628 \u0628\u0627\u0644\u0648\u0643\u0627\u0644\u0629", "Harb bil-wakaala"], "pupil": ["\u062a\u0644\u0645\u064a\u0630  (\u062c)  \u062a\u0644\u0627\u0645\u064a\u0630", "tilmiid (pl.) talaamiid"], "qualifications": ["\u0645\u0624\u0647\u0644\u0627\u062a", "mu'ahhilaat"], "rabbit": ["\u0623\u0631\u0646\u0628  (\u062c)  \u0627\u0631\u0627\u0646\u0628", "arnab (pl.) araanib"], "raise": ["\u0639\u0644\u0627\u0648\u0629  (\u062c)  \u0639\u0644\u0627\u0648\u0627\u062a", "3elaawa (pl.) 3elaawaat"], "rat": ["\u062c\u0631\u0630  (\u062c)  \u062c\u0631\u0630\u0627\u0646", "jurad (pl.) jirdaan"], "real estate": ["\u0639\u0642\u0627\u0631  (\u062c)  \u0639\u0642\u0627\u0631\u0627\u062a", "3aqaar (pl.) 3aqaaraat"], "recess, holiday": ["\u0627\u062c\u0627\u0632\u0629  (\u062c)  \u0627\u062c\u0627\u0632\u0627\u062a", "ajaaza (pl.) ajaazaat"], "regretful (regret)": ["\u0646\u0627\u062f\u0645 (\u0646\u062f\u0645)", "naadim\r\n (nadam)"], "religion": ["\u062f\u064a\u0646  (\u062c)  \u0623\u062f\u064a\u0627\u0646", "diin (pl.) adyaan"], "representative": ["\u0645\u0645\u062b\u0644  (\u062c)  \u0645\u0645\u062b\u0644\u0648\u0646", "mumattil (pl.) mumattiluun"], "reptile": ["\u0632\u0627\u062d\u0641  (\u062c)  \u0632\u0648\u0627\u062d\u0641", "zaaHif (pl.) zawaaHif"], "republic": ["\u062c\u0645\u0647\u0648\u0631\u064a\u0629", "jumhuuriyya"], "research": ["\u0623\u0628\u062d\u0627\u062b", "abHaat"], "restiveness, troubles": ["\u0627\u0636\u0637\u0631\u0627\u0628  (\u062c)  \u0627\u0636\u0637\u0631\u0627\u0628\u0627\u062a", "iDTiraab (pl.) iDTiraabaat"], "resume": ["\u0633\u064a\u0631\u0629  (\u062c)  \u0633\u064a\u0631 \u0630\u0627\u062a\u064a\u0629", "siira daatiyya (pl.) siyar daatiyya"], "revolution": ["\u062b\u0648\u0631\u0629  (\u062c)  \u062b\u0648\u0631\u0627\u062a", "tawra (pl.) tawraat"], "right": ["\u064a\u0645\u064a\u0646", "yamiin"], "road": ["\u0637\u0631\u064a\u0642  (\u062c)  \u0637\u0631\u0642", "Tariiq (pl.) Turuq"], "rooster": ["\u062f\u064a\u0643  (\u062c)  \u062f\u064a\u0648\u0643", "diik (pl.) duyuuk"], "sad (sadness)": ["\u062d\u0632\u064a\u0646 (\u062d\u0632\u0646)", "Haziin"], "savior": ["\u0645\u062e\u0644\u0651\u0635", "muxalliS"], "scandal-monger": ["\u00a0", "\u00a0"], "school": ["\u0645\u062f\u0631\u0633\u0629  (\u062c)  \u0645\u062f\u0627\u0631\u0633", "madrasa (pl.) madaaris"], "school subject (or material, as in building materials)": ["\u0645\u0627\u062f\u0651\u0629  (\u062c)  \u0645\u0648\u0627\u062f\u0651", "maadda (pl.) mawaadd"], "second": ["\u062b\u0627\u0646\u064a\u0629  (\u062c)  \u062b\u0648\u0627\u0646\u064a", "taanya (pl.) tawaani"], "secondary school": ["\u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u062b\u0627\u0646\u0648\u064a\u0629", "al-madrasa t-taanawiyya"], "sect": ["\u0637\u0627\u0626\u0641\u0629  (\u062c)  \u0637\u0648\u0627\u0626\u0641", "Taa'ifa (pl.) Tawaa'if"], "secularism": ["\u0639\u0644\u0645\u0627\u0646\u064a\u0629", "3ilmaaniyya"], "sheep": ["\u063a\u0646\u0645  (\u062c)  \u0623\u063a\u0646\u0627\u0645", "\u0121anam (pl.) a\u0121naam"], "side line": ["\u062e\u0637 \u0627\u0644\u062a\u0645\u0627\u0633", "xaTT at-tamaass"], "small bird, sparrow": ["\u0639\u0635\u0641\u0648\u0631  (\u062c)  \u0639\u0635\u0627\u0641\u064a\u0631", "3uSfuur (pl.) 3aSaafiir"], "smiling (adjective)": ["\u00a0", "\u00a0"], "snake": ["\u062b\u0639\u0628\u0627\u0646  (\u062c)  \u062b\u0639\u0627\u0628\u064a\u0646", "tu3baan (pl.) ta3aabiin"], "soccer": ["\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645", "kurat al-qadam"], "socialism": ["\u0627\u0634\u062a\u0631\u0627\u0643\u064a\u0629", "i\u0161tiraakiyya"], "south": ["\u062c\u0646\u0648\u0628", "januub"], "sparrow": ["\u0639\u0635\u0641\u0648\u0631 \u062f\u0648\u0631\u064a", "3uSfuur duury"], "spokesman": ["\u0645\u062a\u062d\u062f\u062b \u0628\u0627\u0633\u0645", "mutaHaddit bism"], "sport": ["\u0631\u064a\u0627\u0636\u0629  (\u062c)  \u0631\u064a\u0627\u0636\u0627\u062a", "riyaaDa (pl.) riyaaDaat"], "sports": [], "stadium": ["\u0627\u0633\u062a\u0627\u062f", "istaad"], "statue": ["\u062a\u0645\u062b\u0627\u0644  (\u062c)  \u062a\u0645\u0627\u062b\u064a\u0644", "timtaal (pl.) tamaatiil"], "stork": ["\u0644\u0642\u0644\u0642  (\u062c)  \u0644\u0642\u0627\u0644\u0642", "laqlaq (pl.) laqaaliq"], "street": ["\u0634\u0627\u0631\u0639  (\u062c)  \u0634\u0648\u0627\u0631\u0639", "\u0161aari3 (pl.) \u0161awaari3"], "strife": ["\u0646\u0632\u0627\u0639", "nizaa3"], "student": ["\u0637\u0627\u0644\u0628  (\u062c)  \u0637\u0644\u0627\u0628", "Taalib (pl.) Tullaab"], "studies": ["\u062f\u0631\u0627\u0633\u0627\u062a", "diraasaat"], "sunrise": ["\u0634\u0631\u0648\u0642 \u0627\u0644\u0634\u0645\u0633", "\u0161uruuq a\u0161-\u0161ams"], "sunset": ["\u063a\u0631\u0648\u0628 \u0627\u0644\u0634\u0645\u0633", "\u0121uruub a\u0161-\u0161ams"], "swallow": ["\u0639\u0635\u0641\u0648\u0631 \u0627\u0644\u062c\u0646\u0629", "3uSfuur al-janna"], "swan": ["\u0628\u062c\u0639\u0629  (\u062c)  \u0628\u062c\u0639", "baja3(a)"], "teacher": ["\u0645\u062f\u0631\u0651\u0633", "mudarris"], "team": ["\u0641\u0631\u064a\u0642", "fariiq"], "tear": ["\u062f\u0645\u0639  (\u062c)  \u062f\u0645\u0648\u0639", "dam3 (pl.) dumuu3"], "tech": [], "test": ["\u0627\u062e\u062a\u0628\u0627\u0631  (\u062c)  \u0627\u062e\u062a\u0628\u0627\u0631\u0627\u062a", "ixtibaar (pl.) ixtibaaraat"], "textbook": ["\u0643\u062a\u0627\u0628 \u0645\u062f\u0631\u0633\u064a  (\u062c) \u0643\u062a\u0628 \u0645\u062f\u0631\u0633\u064a\u0629", "kitaab madrasi (pl.) kutub madrasiyya"], "the Cold War": ["\u0627\u0644\u062d\u0631\u0628 \u0627\u0644\u0628\u0627\u0631\u062f\u0629", "al-Harb al-baarida"], "theology": ["\u0627\u0644\u0625\u0644\u0647\u064a\u0627\u062a", "al-ilhiyyaat"], "time": ["\u0648\u0642\u062a  (\u062c)  \u0623\u0648\u0642\u0627\u062a", "waqt (pl.) awqaat"], "time (as a general concept)": ["\u0627\u0644\u0632\u0645\u0627\u0646", "az-zamaan"], "time (countable unit; as in \"three times, four times,\" etc.)": ["\u0645\u0631\u0629  (\u062c)  \u0645\u0631\u0627\u062a", "marra (pl.) marraat"], "to apologize to s.o. for st.": ["\u0627\u0639\u062a\u0630\u0631 - \u064a\u0639\u062a\u0630\u0631 (\u0627\u0639\u062a\u0630\u0627\u0631) \u0644\u0640 \u0639\u0646 \u0640\u0640", "i3tadara - ya3tadiru (i3tidaar) li-s.o. 3an s.t."], "to argue with s.o.": ["\u062c\u0627\u062f\u0644 - \u064a\u062c\u0627\u062f\u0644 (\u0645\u062c\u0627\u062f\u0644\u0629)", "jaadala - yujaadilu (mujaadala)"], "to be (not used in present tense)": ["\u0643\u0627\u0646 - \u064a\u0643\u0648\u0646 (\u0643\u0648\u0646)", "kaana - yakuunu (koon)"], "to be content/satisfied with": ["\u0631\u0636\u0649\r\n - \u064a\u0631\u0636\u0649 (\u0631\u0636\u0649) \u0628\u0640", "raDiya - yarDa (riDan) bi"], "to be disgraced, made a subject of scandal": ["\u0627\u0646\u0641\u0636\u062d - \u064a\u0646\u0641\u0636\u062d (\u0627\u0646\u0641\u0636\u0627\u062d)", "infaDaHa - yanfaDiHu (infiDaaH)"], "to be proud of": ["\u0627\u0641\u062a\u062e\u0631 - \u064a\u0641\u062a\u062e\u0631 \r\n(\u0627\u0641\u062a\u062e\u0627\u0631) \u0628\u0640", "iftaxara - yaftaxiru (iftixaar) bi"], "to be really happy about s.t. or really enjoy it": ["\u00a0", "\u00a0"], "to become": ["\u0623\u0635\u0628\u062d - \u064a\u0635\u0628\u062d (\u0627\u0635\u0628\u0627\u062d)", "aSbaHa - yuSbiHu (iSbaaH)"], "to belittle, cut down to size": ["\u00a0", "\u00a0"], "to bellow at": ["\u00a0", "\u00a0"], "to blame s.o.": ["\u0639\u062a\u0628 \u2013 \u064a\u0639\u062a\u0628 (\u0639\u062a\u0628) \u0639\u0644\u0649", "3ataba - ya3tibu (3atb) 3ala s.o."], "to blame s.o. for s.t.": ["\u0644\u0627\u0645 - \u064a\u0644\u0648\u0645 (\u0644\u0648\u0645) \u0640\u0640 \u0639\u0644\u0649 \u0640\u0640", "laam - yaluum (loom) s.o. 3ala s.t."], "to bring, fetch": ["\u0623\u062d\u0636\u0631 \u2013 \u064a\u062d\u0636\u0631 (\u0627\u062d\u0636\u0627\u0631)", "aHDara - yuHDiru (iHDaar)"], "to change (s.t.)": ["\u063a\u064a\u0651\u0631 - \u064a\u063a\u064a\u0651\u0631 (\u062a\u063a\u064a\u064a\u0631)", "\u0121ayyara - yu\u0121ayyiru (ta\u0121yiir)"], "to come": ["\u062c\u0627\u0621 \u2013 \u064a\u062c\u0626 (\u062c\u064a\u0626\u0629)", "jaa'a - yajii'u (jii'a)"], "to complain (about)": ["\u0634\u0643\u0649 - \u064a\u0634\u0643\u0648 (\u0634\u0643\u0648\u0649) \u0645\u0646", "\u0161aka - ya\u0161ku (\u0161akwa) min"], "to count": ["\u0639\u062f\u0651 - \u064a\u0639\u062f\u0651 (\u0639\u062f\u0651)", "3adda - ya3uddu (3add)"], "to cry": ["\u0628\u0643\u0649 - \u064a\u0628\u0643\u064a (\u0628\u0643\u0649)", "baka - yabki (buka)"], "to dance": ["\u0631\u0642\u0635 - \u064a\u0631\u0642\u0635 (\u0631\u0642\u0635)", "raqaSa - yarquSu (raqS)"], "to deceive, beguile": ["\u063a\u0631\u0651\u0631 - \u064a\u063a\u0631\u0651\u0631 (\u062a\u063a\u0631\u064a\u0631) \u0628\u0640", "\u0121arrara - yu\u0121arriru (ta\u0121riir) bi"], "to deceive, dupe": ["\u062e\u062f\u0639 \u2013 \u064a\u062e\u062f\u0639 (\u062e\u062f\u0639\u0629)", "xada3a - yaxda3u (xud3a)"], "to deduce (an inference)": ["\u0627\u0633\u062a\u0646\u062a\u062c - \u064a\u0633\u062a\u0646\u062a\u062c (\u0627\u0633\u062a\u0646\u062a\u0627\u062c)", "istantaja - yastantiju (istintaaj)"], "to design": ["\u0635\u0645\u0645 - \u064a\u0635\u0645\u0645 (\u062a\u0635\u0645\u064a\u0645)", "Sammama - yuSammimu (taSmiim)"], "to do; to make": ["\u0641\u0639\u0644 - \u064a\u0641\u0639\u0644 (\u0641\u0639\u0644)", "fa3ala - yaf3alu (fa3l)"], "to draw or paint": ["\u0631\u0633\u0645 - \u064a\u0631\u0633\u0645 (\u0631\u0633\u0645)", "rasama - yarsumu (rasm)"], "to embrace, hug": ["\u062d\u0636\u0646 - \u064a\u062d\u0636\u0646 \r\n(\u062d\u0636\u0646)", "HaDana - yaHDunu (HaDn)"], "to excuse and sympathize with, make allowances for": ["\u00a0", "\u00a0"], "to fall in love with (her)": ["\u0648\u0642\u0639 - \u064a\u0642\u0639 (\u0648\u0642\u0648\u0639) \u0641\u064a \u062d\u0628(\u0647\u0627)", "waqa3a - yaqa3u (wuquu3) fi Hobb(iha)"], "to feel": ["\u0634\u0639\u0631 - \u064a\u0634\u0639\u0631 (\u0634\u0639\u0648\u0631) \u0628\u0640", "\u0161a3ara - ya\u01613ura (\u0161u3uur) bi"], "to fight with s.o.": ["\u062e\u0627\u0646\u0642 - \u064a\u062e\u0627\u0646\u0642 (\u0645\u062e\u0627\u0646\u0642\u0629)", "xaanaqa - yuxaaniqu (muxaanaqa)"], "to fire": ["\u0637\u0631\u062f - \u064a\u0637\u0631\u062f (\u0637\u0631\u062f) \u0647 \u0645\u0646 \u0627\u0644\u0639\u0645\u0644", "Tarada - yaTrudu (Tard) (s.o.) min al-3amal"], "to forgive s.o. for st.": ["\u0633\u0627\u0645\u062d - \u064a\u0633\u0627\u0645\u062d (\u0645\u0633\u0627\u0645\u062d\u0629) \u0640\u0640 \u0641\u064a \u0640\u0640", "saamaHa - yusaamiHu (musaamaHa) \r\ns.o. fi s.t."], "to frown, scowl": ["\u062a\u062c\u0647\u0651\u0645 - \u064a\u062a\u062c\u0647\u0651\u0645 (\u062a\u062c\u0647\u0645)", "tajahhama - yatajahhamu (tajahhum)"], "to gasp": ["\u00a0", "\u00a0"], "to go (to)": ["\u0630\u0647\u0628 - \u064a\u0630\u0647\u0628 (\u0630\u0647\u0627\u0628) \u0625\u0644\u0649", "dahaba - yadhabu (dahaab) ila"], "to grumble, complain (about)": ["\u062a\u0630\u0645\u0651\u0631 - \u064a\u062a\u0630\u0645\u0651\u0631 (\u062a\u0630\u0645\u0651\u0631) \u0645\u0646", "tadammara - yatadammaru (tadammur) min"], "to hide or repress one's feelings": ["\u00a0", "\u00a0"], "to hire": ["\u062a\u0648\u0638\u0641 - \u064a\u062a\u0648\u0638\u0641 (\u062a\u0648\u0638\u0641)", "tawaZZafa - yatawaZZafu (tawaZZuf)"], "to insist on": ["\u0623\u0635\u0631\u0651 - \u064a\u0635\u0631\u0651 (\u0627\u0635\u0631\u0627\u0631) \u0639\u0644\u0649", "aSarra - yuSirru (iSraar) 3ala"], "to insult, revile": ["\u0634\u062a\u0645 - \u064a\u0634\u062a\u0645 (\u0634\u062a\u0645)", "\u0161atama - ya\u0161timu (\u0161atm)"], "to kiss s.o.": ["\u0642\u0628\u0651\u0644 - \u064a\u0642\u0628\u0651\u0644 \r\n(\u062a\u0642\u0628\u064a\u0644)", "qabbala - yuqabbilu (taqbiil)"], "to laugh": ["\u0636\u062d\u0643 - \u064a\u0636\u062d\u0643 (\u0636\u062d\u0643)", "DaHika - yaDHaku (DaHik)"], "to mislead": ["\u0636\u0644\u0651\u0644 \u2013 \u064a\u0636\u0644\u0651\u0644 (\u062a\u0636\u0644\u064a\u0644)", "Dallala - yuDallilu (taDliil)"], "to moan, groan": ["\u00a0", "\u00a0"], "to overthrow": ["\u0623\u0637\u0627\u062d - \u064a\u0637\u0648\u062d (\u0627\u0637\u0627\u062d\u0629)", "aTaaHa - yaTuuHu (iTaaHa)"], "to pout, sulk": ["\u0628\u0648\u0651\u0632 - \u064a\u0628\u0648\u0651\u0632 (\u062a\u0628\u0648\u064a\u0632)", "bawwaza - yubawwizu (tabwiiz)"], "to put": ["\u0648\u0636\u0639 - \u064a\u0636\u0639 (\u0648\u0636\u0639)", "waDa3a - yaDa3u (waD3)"], "to regret s.t.": ["\u0646\u062f\u0645 - \u064a\u0646\u062f\u0645 \r\n(\u0646\u062f\u0645) \u0639\u0644\u0649", "nadima - yandamu (nadam) 3ala"], "to run": ["\u062c\u0631\u0649 - \u064a\u062c\u0631\u064a (\u062c\u0631\u064a)", "jara - yajri (jary)"], "to scold s.o. for s.t.": ["\u0623\u0646\u0651\u0628 - \u064a\u0624\u0646\u0651\u0628 (\u062a\u0623\u0646\u064a\u0628) \u0640\u0640 \u0639\u0644\u0649 \u0640\u0640", "annaba - yu'annibu (ta'niib) \r\ns.o. 3ala s.t."], "to scream, shout": ["\u0635\u0631\u062e - \u064a\u0635\u0631\u062e (\u0635\u0631\u0627\u062e)", "Saraxa - yaSruxu (Suraax)"], "to sculpt": ["\u0646\u062d\u062a - \u064a\u0646\u062d\u062a (\u0646\u062d\u062a)", "naHata - yanHutu (naHt)"], "to sigh": ["\u062a\u0646\u0647\u0651\u062f - \u064a\u062a\u0646\u0647\u0651\u062f \r\n(\u062a\u0646\u0647\u0651\u062f)", "tanahhada - yatanahhadu (tanahhud)"], "to smile": ["\u0627\u0628\u062a\u0633\u0645 - \u064a\u0628\u062a\u0633\u0645 (\u0627\u0628\u062a\u0633\u0627\u0645)", "ibtasama - yabtasimu (ibtisaam)"], "to speak rudely to s.o.": ["\u00a0", "\u00a0"], "to spread scandal/gossip maliciously": ["\u00a0", "\u00a0"], "to sympathize with": ["\u0639\u0637\u0641 - \u064a\u0639\u0637\u0641 (\u0639\u0637\u0641) \u0639\u0644\u0649", "3aTafa - ya3Tifu (3aTf) 3ala"], "to take": ["\u0623\u062e\u0630 \u2013 \u064a\u0623\u062e\u0630 (\u0623\u062e\u0630)", "axada - ya'xudu (axd)"], "to to break off relations with s.o. because of a dispute, stop speaking to them": ["\u00a0", "\u00a0"], "to train": ["\u062f\u0631\u0651\u0628 - \u064a\u062f\u0631\u0651\u0628 (\u062a\u062f\u0631\u064a\u0628)", "darraba - yudarribu (tadriib)"], "to walk": ["\u0645\u0634\u0649 - \u064a\u0645\u0634\u064a (\u0645\u0634\u064a)", "ma\u0161a - yam\u0161i (ma\u0161y)"], "to work": ["\u0639\u0645\u0644 - \u064a\u0639\u0645\u0644 (\u0639\u0645\u0644)", "3amala - ya3milu (3amal)"], "to yell at": ["\u00a0", "\u00a0"], "totalitarianism": ["\u0634\u0645\u0648\u0644\u064a\u0629", "\u0161umuuliyya"], "tunnel": ["\u0646\u0641\u0642  (\u062c)  \u0627\u0646\u0641\u0627\u0642", "nafaq (pl.) anfaaq"], "turkey": ["\u062f\u064a\u0643 \u0631\u0648\u0645\u064a", "diik ruumi"], "tyrant": ["\u0645\u0633\u062a\u0628\u062f\u0651", "mustabidd"], "unemployment": ["\u0628\u0637\u0627\u0644\u0629", "baTaala"], "university": ["\u062c\u0627\u0645\u0639\u0629  (\u062c)  \u062c\u0627\u0645\u0639\u0627\u062a", "jaami3a (pl.) jaami3aat"], "verbs": [], "very happy/pleased": ["\u00a0", "\u00a0"], "veto": ["\u0646\u0642\u0636", "naqD"], "victim": ["\u0636\u062d\u064a\u0629  (\u062c)  \u0636\u062d\u0627\u064a\u0627", "DaHiyya (pl.) DaHaaya"], "war": ["\u062d\u0631\u0628 (\u062c)  \u062d\u0631\u0648\u0628", "Harb (pl.) Huruub (fem.)"], "weaving": ["\u0646\u0633\u064a\u062c", "nasiij"], "week": ["\u0623\u0633\u0628\u0648\u0639  (\u062c)  \u0623\u0633\u0627\u0628\u064a\u0639", "usbuu3 (pl.) asaabii3"], "west": ["\u063a\u0631\u0628", "\u0121arb"], "with distinction": ["\u0628\u0627\u0645\u062a\u064a\u0627\u0632", "bimtiyaaz"], "work": ["\u0639\u0645\u0644", "3amal"], "world": ["\u0639\u0627\u0644\u0645  (\u062c)  \u0639\u0648\u0627\u0644\u0645", "3aalam (pl.) 3awaalim"], "year": ["\u0633\u0646\u0629  (\u062c)  \u0633\u0646\u0648\u0627\u062a", "sana (pl.) sanawaat"], "yearning": ["\u062d\u0646\u064a\u0646", "Haniin"], "young (or small)": ["\u0635\u063a\u064a\u0631  (\u062c)  \u0635\u063a\u0627\u0631", "Sa\u0121iir (pl.) Su\u0121aar"]}
+{
+    "(a) god": [
+        "\u0627\u0644\u0647  (\u062c)  \u0622\u0644\u0647\u0629", 
+        "ilaah (pl.) aaliha"
+    ], 
+    "(a) kiss": [
+        "\u0642\u0628\u0644\u0629  (\u062c)  \u0642\u0628\u0644\u0627\u062a", 
+        "qubla\r\n (pl.) qubalaat"
+    ], 
+    "(a) sigh": [
+        "\u062a\u0646\u0647\u064a\u062f\u0629  (\u062c)  \u062a\u0646\u0627\u0647\u064a\u062f", 
+        "tanhiida\r\n (pl.) tanaahiid"
+    ], 
+    "(an) activity": [
+        "\u0646\u0634\u0627\u0637  (\u062c)  \u0646\u0634\u0627\u0637\u0627\u062a | \u0623\u0646\u0634\u0637\u0629", 
+        "na\u0161aaT (pl.) na\u0161aaTaat/an\u0161iTa"
+    ], 
+    "(an) exercise": [
+        "\u062a\u0645\u0631\u064a\u0646  (\u062c)  \u062a\u0645\u0627\u0631\u064a\u0646 | \u062a\u0645\u0631\u064a\u0646\u0627\u062a", 
+        "tamriin (pl.) tamaariin/tamriinaat"
+    ], 
+    "Alawite": [
+        "\u0639\u0644\u0648\u064a", 
+        "3alawi"
+    ], 
+    "BA (bachelor of arts)": [
+        "?", 
+        "?"
+    ], 
+    "BS (bachelor of science)": [
+        "?", 
+        "?"
+    ], 
+    "Baha'ism": [
+        "\u0627\u0644\u0628\u0647\u0627\u0626\u064a\u0629", 
+        "al-bahaa'iyya"
+    ], 
+    "Buddhism": [
+        "\u0627\u0644\u0628\u0648\u0630\u064a\u0629", 
+        "al-buudiyya"
+    ], 
+    "Catholic": [
+        "\u0643\u0627\u062b\u0648\u0644\u064a\u0643", 
+        "katoliik"
+    ], 
+    "Christian": [
+        "\u0645\u0633\u064a\u062d\u064a", 
+        "masiiHi"
+    ], 
+    "Christianity": [
+        "\u0627\u0644\u0645\u0633\u064a\u062d\u064a\u0629", 
+        "al-masiiHiyya"
+    ], 
+    "Conservative Judaism": [
+        "\u0627\u0644\u064a\u0647\u0648\u062f\u064a\u0629 \u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629", 
+        "al-yahuudiyya l-muHaafiZa"
+    ], 
+    "Copt": [
+        "\u0642\u0628\u0637\u064a  (\u062c)  \u0623\u0642\u0628\u0627\u0637", 
+        "qibTi (pl.) aqbaaT"
+    ], 
+    "Druze": [
+        "\u062f\u0631\u0648\u0632\u064a  (\u062c)  \u062f\u0631\u0648\u0632", 
+        "druuzi (pl.) druuz"
+    ], 
+    "Friday": [
+        "\u064a\u0648\u0645 \u0627\u0644\u062c\u0645\u0639\u0629", 
+        "yoom al-jum3a"
+    ], 
+    "God*": [
+        "\u0627\u0644\u0644\u0647", 
+        "allaah"
+    ], 
+    "Hinduism": [
+        "\u0627\u0644\u0647\u0646\u062f\u0648\u0633\u064a\u0629", 
+        "al-hinduusiyya"
+    ], 
+    "His Majesty": [
+        "\u062c\u0644\u0627\u0644\u062a\u0647", 
+        "jalaalatuhu"
+    ], 
+    "His Royal Highness": [
+        "\u0635\u0627\u062d\u0628 \u0627\u0644\u0633\u0645\u0648 \u0627\u0644\u0645\u0644\u0643\u064a", 
+        "SaaHib as-sumuuw al-malaki"
+    ], 
+    "Islam": [
+        "\u0627\u0644\u0625\u0633\u0644\u0627\u0645", 
+        "al-islaam"
+    ], 
+    "Jainism": [
+        "\u0627\u0644\u062c\u0627\u0646\u064a\u0629", 
+        "al-jaaniyya"
+    ], 
+    "Jesus": [
+        "\u064a\u0633\u0648\u0639 | \u0639\u064a\u0633\u0649", 
+        "yasuu3 (used by Christians); 3iisa (used by Muslims)"
+    ], 
+    "Jew": [
+        "\u064a\u0647\u0648\u062f\u064a  (\u062c)  \u064a\u0647\u0648\u062f", 
+        "yahuudi (pl.) yahuud"
+    ], 
+    "Judaism": [
+        "\u0627\u0644\u064a\u0647\u0648\u062f\u064a\u0629", 
+        "al-yahuudiyya"
+    ], 
+    "Maronite": [
+        "\u0645\u0627\u0631\u0648\u0646\u064a  (\u062c)  \u0645\u0648\u0627\u0631\u0646\u0629", 
+        "maaruuni (pl.) mawaarina"
+    ], 
+    "Ministry of Education": [
+        "\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062a\u0631\u0628\u064a\u0629 \u0648\u0627\u0644\u062a\u0639\u0644\u064a\u0645", 
+        "wizaarat at-tarbiyya wat-ta3liim"
+    ], 
+    "Monday": [
+        "\u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646", 
+        "yoom al-itnein"
+    ], 
+    "Muslim": [
+        "\u0645\u0633\u0644\u0645", 
+        "muslim"
+    ], 
+    "Orthodox": [
+        "\u0623\u0648\u0631\u062b\u0648\u062f\u0648\u0643\u0633", 
+        "ortodoks"
+    ], 
+    "Orthodox Judaism": [
+        "\u0627\u0644\u064a\u0647\u0648\u062f\u064a\u0629 \u0627\u0644\u0623\u0631\u062b\u0648\u062f\u0648\u0643\u0633\u064a\u0629", 
+        "al-yahuudiyya l-ortodoksiyya"
+    ], 
+    "Protestant": [
+        "\u0628\u0631\u0648\u062a\u0633\u062a\u0627\u0646\u062a", 
+        "brotestaant"
+    ], 
+    "Reform Judaism": [
+        "\u0627\u0644\u064a\u0647\u0648\u062f\u064a\u0629 \u0627\u0644\u0625\u0635\u0644\u0627\u062d\u064a\u0629", 
+        "al-yahuudiyya l-iSlaaHiyya"
+    ], 
+    "Satan, the devil": [
+        "\u0627\u0644\u0634\u064a\u0637\u0627\u0646  (\u062c)  \u0627\u0644\u0634\u064a\u0627\u0637\u064a\u0646", 
+        "a\u0161-\u0161eiTaan (pl.) a\u0161-\u0161ayaaTiin"
+    ], 
+    "Saturday": [
+        "\u064a\u0648\u0645 \u0627\u0644\u0633\u0628\u062a", 
+        "yoom as-sabt"
+    ], 
+    "Shi'ite": [
+        "\u0634\u064a\u0639\u064a  (\u062c)  \u0634\u064a\u0639\u0629", 
+        "\u0161ii3i (pl.) \u0161ii3a"
+    ], 
+    "Sikhism": [
+        "\u0627\u0644\u0633\u064a\u062e\u064a\u0629", 
+        "as-siixiyya"
+    ], 
+    "Sufism": [
+        "\u0627\u0644\u0635\u0648\u0641\u064a\u0629", 
+        "aS-Suufiyya"
+    ], 
+    "Sunday": [
+        "\u064a\u0648\u0645 \u0627\u0644\u0623\u062d\u062f", 
+        "yoom al-aHad"
+    ], 
+    "Sunni": [
+        "\u0633\u0646\u0651\u064a  (\u062c)  \u0633\u0646\u0651\u0629", 
+        "sunni (pl.) sunna"
+    ], 
+    "Taoism": [
+        "\u0627\u0644\u0637\u0627\u0648\u064a\u0629", 
+        "aT-Taawiyya"
+    ], 
+    "Thursday": [
+        "\u064a\u0648\u0645 \u0627\u0644\u062e\u0645\u064a\u0633", 
+        "yoom al-xamiis"
+    ], 
+    "Tuesday": [
+        "\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621", 
+        "yoom at-tulaataa'"
+    ], 
+    "Wednesday": [
+        "\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621", 
+        "yoom al-arbi3aa'"
+    ], 
+    "Zoroastrianism": [
+        "\u0627\u0644\u0632\u0631\u0627\u062f\u0634\u062a\u064a\u0629", 
+        "az-zaraadi\u0161tiyyas"
+    ], 
+    "a public disgrace, scandal": [
+        "\u062c\u0631\u0633\u0629  (\u062c)  \u062c\u0631\u0633", 
+        "jursa (pl.) juras"
+    ], 
+    "afternoon": [
+        "\u0628\u0639\u062f \u0627\u0644\u0638\u0647\u0631", 
+        "ba3d iZ-Zuhr"
+    ], 
+    "alley; lane": [
+        "\u062d\u0627\u0631\u0629  (\u062c)  \u062d\u0627\u0631\u0627\u062a", 
+        "Haara (pl.) Haaraat"
+    ], 
+    "ambassador": [
+        "\u0633\u0641\u064a\u0631  (\u062c)  \u0633\u0641\u0631\u0627\u0621", 
+        "safiir (pl.) sufaraa'"
+    ], 
+    "amendment": [
+        "\u062a\u0639\u062f\u064a\u0644  (\u062c)  \u062a\u0639\u062f\u064a\u0644\u0627\u062a", 
+        "ta3diil (pl.) ta3diilaat"
+    ], 
+    "amphibian": [
+        "\u0628\u0631\u0645\u0627\u0626\u064a\u0629  (\u062c)  \u0628\u0631\u0645\u0627\u0626\u064a\u0627\u062a", 
+        "barmaa'iyya (pl.) barmaa'iyyaat"
+    ], 
+    "analysis": [
+        "\u062a\u062d\u0644\u064a\u0644  (\u062c)  \u062a\u062d\u0627\u0644\u064a\u0644", 
+        "taHliil (pl.) taHaaliil"
+    ], 
+    "anarchism": [
+        "\u0641\u0648\u0636\u0648\u064a\u0629", 
+        "fawDawiyya"
+    ], 
+    "angel": [
+        "\u0645\u0644\u0627\u0643  (\u062c)  \u0645\u0644\u0627\u0626\u0643\u0629", 
+        "malaak (pl.) malaa'ika"
+    ], 
+    "animal": [
+        "\u062d\u064a\u0648\u0627\u0646  (\u062c)  \u062d\u064a\u0648\u0627\u0646\u0627\u062a", 
+        "Hayawaan (pl.) Hayawaanaat"
+    ], 
+    "animals": [], 
+    "art": [
+        "\u0641\u0646  (\u062c)  \u0641\u0646\u0648\u0646", 
+        "fann (pl.) funuun"
+    ], 
+    "artist (in general)": [
+        "\u0641\u0646\u0627\u0646", 
+        "fannaan"
+    ], 
+    "arts": [], 
+    "atheism (atheist)": [
+        "\u0627\u0644\u0625\u0644\u062d\u0627\u062f (\u0645\u0644\u062d\u062f)", 
+        "al-ilHaad (mulHid)"
+    ], 
+    "authority": [
+        "\u0633\u0644\u0637\u0629  (\u062c)  \u0633\u0644\u0637\u0627\u062a", 
+        "sulTa (pl.) sulaTaat"
+    ], 
+    "baccalaureate": [
+        "\u0628\u0643\u0627\u0644\u0648\u0631\u064a\u0627", 
+        "bakalooriyaa"
+    ], 
+    "ball": [
+        "\u0643\u0631\u0629  (\u062c)  \u0643\u0648\u0631", 
+        "kura (pl.) kuwar"
+    ], 
+    "behind": [
+        "\u0648\u0631\u0627\u0621", 
+        "waraa'"
+    ], 
+    "bellydance": [
+        "\u0631\u0642\u0635 \u0634\u0631\u0642\u064a", 
+        "raqS \u0161arqi"
+    ], 
+    "bird": [
+        "\u0637\u0627\u0626\u0631  (\u062c)  \u0637\u0627\u0626\u0631\u0627\u062a", 
+        "Taa'ir (pl.) Taa'iraat"
+    ], 
+    "bitterness": [
+        "\u0645\u0631\u0627\u0631\u0629", 
+        "maraara"
+    ], 
+    "bloc": [
+        "\u0643\u062a\u0644\u0629  (\u062c)  \u0643\u062a\u0644", 
+        "kutla (pl.) kutal"
+    ], 
+    "bloodless coup": [
+        "\u0627\u0646\u0642\u0644\u0627\u0628 \u0623\u0628\u064a\u0636", 
+        "inqilaab abyaD"
+    ], 
+    "body": [
+        "\u062c\u0633\u0645 (\u062c) \u0627\u062c\u0633\u0627\u0645", 
+        "jism (pl.) ajsaam"
+    ], 
+    "brainwashing": [
+        "\u063a\u0633\u064a\u0644 \u062f\u0645\u0627\u063a", 
+        "\u0121asiil dimaa\u0121"
+    ], 
+    "buffalo": [
+        "\u062c\u0627\u0645\u0648\u0633  (\u062c)  \u062c\u0648\u0627\u0645\u064a\u0633", 
+        "jaamuus (pl.) jawaamiis"
+    ], 
+    "building": [
+        "\u0639\u0645\u0627\u0631\u0629  (\u062c)  \u0639\u0645\u0627\u0631\u0627\u062a", 
+        "3imaara (pl.) 3imaaraat"
+    ], 
+    "bull, ox": [
+        "\u062b\u0648\u0631  (\u062c)  \u062b\u064a\u0631\u0627\u0646", 
+        "toor (pl.) tiiraan"
+    ], 
+    "calf": [
+        "\u0639\u062c\u0644  (\u062c)  \u0639\u062c\u0648\u0644", 
+        "3ijl (pl.) 3ujuul"
+    ], 
+    "camel": [
+        "\u062c\u0645\u0644  (\u062c)  \u062c\u0645\u0627\u0644", 
+        "jamal (pl.) jimaal"
+    ], 
+    "capitalism": [
+        "\u0631\u0623\u0633\u0645\u0627\u0644\u064a\u0629", 
+        "ra'smaaliyya"
+    ], 
+    "cat": [
+        "\u0642\u0637\u0651\u0629  (\u062c)  \u0642\u0637\u0637", 
+        "qiTTa (pl.) qiTaT"
+    ], 
+    "cattle, livestock": [
+        "\u0628\u0647\u064a\u0645\u0629  (\u062c)  \u0628\u0647\u0627\u0626\u0645", 
+        "bahiima (pl.) bahaa\u2019im"
+    ], 
+    "century": [
+        "\u0642\u0631\u0646  (\u062c)  \u0642\u0631\u0648\u0646", 
+        "qarn (pl.) quruun"
+    ], 
+    "ceramics": [
+        "\u062e\u0632\u0641", 
+        "xazaf"
+    ], 
+    "chaotic": [
+        "\u0647\u0645\u062c\u064a", 
+        "hamaji"
+    ], 
+    "charcoal": [
+        "\u0641\u062d\u0645", 
+        "faHm"
+    ], 
+    "cheerful (cheerfulness)": [
+        "\u0645\u0631\u062d \r\n(\u0645\u0631\u062d)", 
+        "mariH (maraH)"
+    ], 
+    "chicken": [
+        "\u062f\u062c\u0627\u062c\u0629  (\u062c)  \u062f\u062c\u0627\u062c", 
+        "dajaaj(a)"
+    ], 
+    "citizen": [
+        "\u0645\u0648\u0627\u0637\u0646  (\u062c)  \u0645\u0648\u0627\u0637\u0646\u0648\u0646", 
+        "muwaaTin (pl.) muwaaTinuun"
+    ], 
+    "city": [
+        "\u0645\u062f\u064a\u0646\u0629  (\u062c)  \u0645\u062f\u0646", 
+        "madiina (pl.) mudun"
+    ], 
+    "civil war": [
+        "\u062d\u0631\u0628 \u0623\u0647\u0644\u064a\u0629", 
+        "Harb ahliyya"
+    ], 
+    "class": [
+        "\u0641\u0635\u0644 (\u062c)  \u0641\u0635\u0648\u0644", 
+        "faSl (pl.) fuSuul"
+    ], 
+    "class period": [
+        "\u062d\u0635\u0651\u0629  (\u062c)  \u062d\u0635\u0635", 
+        "HiSSa (pl.) HiSaS"
+    ], 
+    "clay": [
+        "\u0635\u0644\u0635\u0627\u0644", 
+        "SalSaal"
+    ], 
+    "clothes": [
+        "\u0645\u0644\u0627\u0628\u0633", 
+        "malaabis"
+    ], 
+    "coalition government": [
+        "\u062d\u0643\u0648\u0645\u0629 \u0627\u0626\u062a\u0644\u0627\u0641\u064a\u0629", 
+        "Hukuuma i'tilaafiyya"
+    ], 
+    "college, academy": [
+        "\u0643\u0644\u064a\u0629  (\u062c)  \u0643\u0644\u064a\u0627\u062a", 
+        "kulliyya (pl.) kulliyyaat"
+    ], 
+    "colony": [
+        "\u0645\u0633\u062a\u0639\u0645\u0631\u0629  (\u062c)  \u0645\u0633\u062a\u0639\u0645\u0631\u0627\u062a", 
+        "musta3mara (pl.) musta3maraat"
+    ], 
+    "color": [
+        "\u0644\u0648\u0646  (\u062c)  \u0623\u0644\u0648\u0627\u0646", 
+        "loon (pl.) alwaan"
+    ], 
+    "colored": [
+        "\u0645\u0644\u0648\u0651\u0646", 
+        "mulawwan"
+    ], 
+    "colors": [], 
+    "communism": [
+        "\u0634\u064a\u0648\u0639\u064a\u0629", 
+        "\u0161uyuu3iyya"
+    ], 
+    "computer": [
+        "\u062d\u0627\u0633\u0648\u0628  (\u062c)  \u062d\u0648\u0627\u0633\u064a\u0628", 
+        "Haasuub (pl.) Hawaasiib"
+    ], 
+    "conflict": [
+        "\u0635\u0631\u0627\u0639", 
+        "Siraa3"
+    ], 
+    "conservative": [
+        "\u0645\u062d\u0627\u0641\u0638", 
+        "muHaafiZ"
+    ], 
+    "constitution": [
+        "\u062f\u0633\u062a\u0648\u0631  (\u062c)  \u062f\u0633\u0627\u062a\u064a\u0631", 
+        "dustuur (pl.) dasaatiir"
+    ], 
+    "containment": [
+        "\u0627\u062d\u062a\u0648\u0627\u0621", 
+        "iHtiwaa'"
+    ], 
+    "content, satisfied": [
+        "\u0631\u0627\u0636\u064a", 
+        "raaDi"
+    ], 
+    "controversy": [
+        "\u062c\u062f\u0644", 
+        "jadal"
+    ], 
+    "corner (at an intersection)": [
+        "\u0646\u0627\u0635\u064a\u0629  (\u062c)  \u0646\u0648\u0627\u0635", 
+        "naaSiya (pl.) nawaaSin"
+    ], 
+    "corner (of a room)": [
+        "\u0631\u0643\u0646  (\u062c)  \u0623\u0631\u0643\u0627\u0646", 
+        "rukn (pl.) arkaan"
+    ], 
+    "country": [
+        "\u062f\u0648\u0644\u0629  (\u062c)  \u062f\u0648\u0644", 
+        "dawla (pl.) duwal"
+    ], 
+    "coup": [
+        "\u0627\u0646\u0642\u0644\u0627\u0628", 
+        "inqilaab"
+    ], 
+    "cow": [
+        "\u0628\u0642\u0631\u0629  (\u062c)  \u0628\u0642\u0631\u0627\u062a", 
+        "baqara (pl.) baqaraat"
+    ], 
+    "crafts": [
+        "\u062d\u0631\u0641  (\u0645)  \u062d\u0631\u0641\u0629", 
+        "Hirf (sing.) Hirfa"
+    ], 
+    "creation theory": [
+        "\u0646\u0638\u0631\u064a\u0629 \u0627\u0644\u062e\u0644\u0642", 
+        "naZariyyat al-xalq"
+    ], 
+    "creed": [
+        "\u0639\u0642\u064a\u062f\u0629  (\u062c)  \u0639\u0642\u0627\u0626\u062f \u062f\u064a\u0646\u064a\u0629", 
+        "3aqiida (pl.) 3aqaa'id diiniyya"
+    ], 
+    "crime": [
+        "\u062c\u0631\u064a\u0645\u0629  (\u062c)  \u062c\u0631\u0627\u0626\u0645", 
+        "jariima (pl.) jaraa'im"
+    ], 
+    "crime (in general)": [
+        "\u0627\u062c\u0631\u0627\u0645", 
+        "ijraam"
+    ], 
+    "criminal": [
+        "\u0645\u062c\u0631\u0645  (\u062c)  \u0645\u062c\u0631\u0645\u0648\u0646", 
+        "mujrim (pl.) mujrimuun"
+    ], 
+    "crossbar": [
+        "\u0639\u0627\u0631\u0636\u0629", 
+        "3aariDa"
+    ], 
+    "crow": [
+        "\u063a\u0631\u0627\u0628  (\u062c)  \u063a\u0631\u0628\u0627\u0646", 
+        "\u0121uraab (pl.) \u0121irbaan"
+    ], 
+    "crown prince": [
+        "\u0648\u0644\u064a \u0627\u0644\u0639\u0647\u062f", 
+        "waliiy al-3ahd"
+    ], 
+    "curriculum": [
+        "\u0645\u0646\u0647\u062c  (\u062c)  \u0645\u0646\u0627\u0647\u062c", 
+        "manhaj (pl.) manaahij"
+    ], 
+    "dark": [
+        "\u063a\u0627\u0645\u0642", 
+        "\u0121aamiq"
+    ], 
+    "dawn": [
+        "\u0641\u062c\u0631", 
+        "fajr"
+    ], 
+    "day": [
+        "\u064a\u0648\u0645  (\u062c)  \u0623\u064a\u0651\u0627\u0645", 
+        "yawm (pl.) ayyaam"
+    ], 
+    "debate": [
+        "\u0633\u062c\u0627\u0644", 
+        "sijaal"
+    ], 
+    "decade": [
+        "\u062d\u0642\u0628\u0629  (\u062c)  \u062d\u0642\u0628\u0627\u062a", 
+        "Hiqba (pl.) Hiqabaat"
+    ], 
+    "deficiency; defective, unbalanced state": [
+        "\u062e\u0644\u0644", 
+        "xalal"
+    ], 
+    "delighted (delight)": [
+        "\u0645\u0633\u0631\u0648\u0631 \r\n(\u0633\u0631\u0648\u0631)", 
+        "masruur (siruur)"
+    ], 
+    "democracy": [
+        "\u062f\u064a\u0645\u0648\u0642\u0631\u0627\u0637\u064a\u0629", 
+        "diimoqraaTiyya"
+    ], 
+    "denomination": [
+        "\u0645\u0630\u0647\u0628  (\u062c)  \u0645\u0630\u0627\u0647\u0628", 
+        "madhab (pl.) madaahib"
+    ], 
+    "department": [
+        "\u0642\u0633\u0645  (\u062c)  \u0627\u0642\u0633\u0627\u0645", 
+        "qism (pl.) aqsaam"
+    ], 
+    "depressed": [
+        "\u0645\u0643\u062a\u0626\u0628", 
+        "mukta'ib"
+    ], 
+    "deputy, vice, representative": [
+        "\u0646\u0627\u0626\u0628  (\u062c)  \u0646\u0648\u0627\u0628", 
+        "naa'ib (pl.) nuwwaab"
+    ], 
+    "despair": [
+        "\u064a\u0623\u0633", 
+        "ya's"
+    ], 
+    "despot": [
+        "\u0637\u0627\u063a\u064a\u0629", 
+        "Taa\u0121iyya"
+    ], 
+    "dictatorship": [
+        "\u062f\u064a\u0643\u062a\u0627\u062a\u0648\u0631\u064a\u0629", 
+        "diiktaatoriyya"
+    ], 
+    "diploma, degree (or certificate)": [
+        "\u0634\u0647\u0627\u062f\u0629", 
+        "\u0161ahaada"
+    ], 
+    "direction": [
+        "\u0627\u062a\u062c\u0627\u0629", 
+        "ittijaah"
+    ], 
+    "discussion": [
+        "\u0645\u0646\u0627\u0642\u0634\u0629", 
+        "munaaqa\u0161a"
+    ], 
+    "doctorate": [
+        "\u062f\u0643\u062a\u0648\u0631\u0627\u0647", 
+        "doctooraah"
+    ], 
+    "dog": [
+        "\u0643\u0644\u0628  (\u062c)  \u0643\u0644\u0627\u0628", 
+        "kalb (pl.) kilaab"
+    ], 
+    "donkey": [
+        "\u062d\u0645\u0627\u0631  (\u062c)  \u062d\u0645\u064a\u0631", 
+        "Himaar (pl.) Hamiir"
+    ], 
+    "dove": [
+        "\u064a\u0645\u0627\u0645\u0629  (\u062c)  \u064a\u0645\u0627\u0645", 
+        "yamaam(a)"
+    ], 
+    "drawing, painting": [
+        "\u0631\u0633\u0645  (\u062c)  \u0631\u0633\u0648\u0645", 
+        "rasm (pl.) rusuum"
+    ], 
+    "duck": [
+        "\u0628\u0637\u0629  (\u062c)  \u0628\u0637", 
+        "baTT(a)"
+    ], 
+    "eagle": [
+        "\u0646\u0633\u0631  (\u062c)  \u0646\u0633\u0648\u0631", 
+        "nasr (pl.) nusuur"
+    ], 
+    "east": [
+        "\u0634\u0631\u0642", 
+        "\u0161arq"
+    ], 
+    "education": [], 
+    "elementary school": [
+        "\u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u0627\u0628\u062a\u062f\u0627\u0626\u064a\u0629", 
+        "al-madrasa l-ibtidaa'iyya"
+    ], 
+    "emotion": [
+        "\u0639\u0627\u0637\u0641  (\u062c)  \u0639\u0648\u0627\u0637\u0641", 
+        "3aaTif (pl.) 3awaaTif"
+    ], 
+    "emotional or sentimental": [
+        "\u0639\u0627\u0637\u0641\u064a", 
+        "3aaTifi"
+    ], 
+    "emotions_pers": [], 
+    "empire": [
+        "\u0627\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a\u0629  (\u062c)  \u0627\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a\u0627\u062a", 
+        "imbraaTuuriyya (pl.) imbraaTuuriyyaat"
+    ], 
+    "employment": [
+        "\u062a\u0648\u0638\u064a\u0641", 
+        "tawZiif"
+    ], 
+    "environment": [
+        "\u0628\u064a\u0626\u0629  (\u062c)  \u0628\u064a\u0626\u0627\u062a", 
+        "bii'a (pl.) bii'aat"
+    ], 
+    "evening": [
+        "\u0645\u0633\u0627\u0621", 
+        "masaa'"
+    ], 
+    "exam": [
+        "\u0627\u0645\u062a\u062d\u0627\u0646  (\u062c)  \u0627\u0645\u062a\u062d\u0627\u0646\u0627\u062a", 
+        "imtiHaan (pl.) imtiHaanaat"
+    ], 
+    "executive": [
+        "\u062a\u0646\u0641\u064a\u0630\u064a", 
+        "tanfiidi"
+    ], 
+    "experience": [
+        "\u062e\u0628\u0631\u0629", 
+        "xibra"
+    ], 
+    "faction": [
+        "\u0641\u0635\u064a\u0644\u0629  (\u062c)  \u0641\u0635\u0627\u0626\u0644", 
+        "faSiila (pl.) faSaa'il"
+    ], 
+    "falcon, hawk": [
+        "\u0635\u0642\u0631  (\u062c)  \u0635\u0642\u0648\u0631", 
+        "Saqr (pl.) Suquur"
+    ], 
+    "fascism": [
+        "\u0641\u0627\u0634\u064a\u0629", 
+        "faa\u0161iyya"
+    ], 
+    "federal government": [
+        "\u062d\u0643\u0648\u0645\u0629 \u0627\u062a\u062d\u0627\u062f\u064a\u0629", 
+        "Hukuuma ittiHaadiyya"
+    ], 
+    "feeling": [
+        "\u0634\u0639\u0631  (\u062c)  \u0634\u0639\u0648\u0631", 
+        "\u0161a3r (pl.) \u0161u3uur"
+    ], 
+    "field": [
+        "\u0645\u0644\u0639\u0628", 
+        "mal3ab"
+    ], 
+    "fight, struggle": [
+        "\u0646\u0636\u0627\u0644", 
+        "niDaal"
+    ], 
+    "food": [
+        "\u0637\u0639\u0627\u0645", 
+        "Ta3aam"
+    ], 
+    "foods": [
+        "\u0645\u0623\u0643\u0648\u0644\u0627\u062a", 
+        "ma'kuulaat"
+    ], 
+    "frowning (adjective)": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "game": [
+        "\u0644\u0639\u0628\u0629  (\u062c)  \u0623\u0644\u0639\u0627\u0628", 
+        "la3ba (pl.) al3aab"
+    ], 
+    "geog": [], 
+    "glad, joyful (gladness, joy)": [
+        "\u0641\u0631\u062d\u0627\u0646\r\n (\u0641\u0631\u062d\u0629)", 
+        "farHaan (farHa)"
+    ], 
+    "goal": [
+        "\u0647\u062f\u0641  (\u062c)  \u0623\u0647\u062f\u0627\u0641", 
+        "hadaf (pl.) ahdaaf"
+    ], 
+    "goal line": [
+        "\u062e\u0637 \u0627\u0644\u0645\u0631\u0645\u0649", 
+        "xaTT al-marma"
+    ], 
+    "goal post": [
+        "\u0642\u0627\u0626\u0645", 
+        "qaa'im"
+    ], 
+    "goat": [
+        "\u0645\u0627\u0639\u0632  (\u062c)  \u0645\u0648\u0627\u0639\u0632", 
+        "maa3iz (pl.) mawaa3iz"
+    ], 
+    "goose": [
+        "\u0627\u0648\u0632\u0629  (\u062c)  \u0627\u0648\u0632", 
+        "iwazz(a)"
+    ], 
+    "government": [
+        "\u062d\u0643\u0648\u0645\u0629  (\u062c)  \u062d\u0643\u0648\u0645\u0627\u062a", 
+        "Hukuuma (pl.) Hukuumaat"
+    ], 
+    "governor; ruler": [
+        "\u062d\u0627\u0643\u0645  (\u062c)  \u062d\u0643\u0627\u0645", 
+        "Haakim  (pl.) Hukkaam"
+    ], 
+    "grade, form": [
+        "\u0635\u0641  (\u062c)  \u0635\u0641\u0648\u0641", 
+        "Saff (pl.) Sufuuf"
+    ], 
+    "happy (happiness)": [
+        "\u0633\u0639\u064a\u062f  (\u062c)  \r\n\u0633\u0639\u062f\u0627\u0621 (\u0633\u0639\u0627\u062f\u0629)", 
+        "sa3iid (pl.) su3adaa' (sa3aada)"
+    ], 
+    "hate": [
+        "\u0643\u0631\u0627\u0647\u064a\u0629", 
+        "karaahiyya"
+    ], 
+    "heaven, paradise": [
+        "\u0627\u0644\u062c\u0646\u0629", 
+        "al-janna"
+    ], 
+    "hell": [
+        "\u0627\u0644\u0646\u0627\u0631", 
+        "an-naar (lit. \"the fire\")"
+    ], 
+    "higher education": [
+        "\u0627\u0644\u062f\u0631\u0627\u0633\u0627\u062a \u0627\u0644\u0639\u0644\u064a\u0627", 
+        "ad-diraasaat al-3ulyaa"
+    ], 
+    "highway": [
+        "\u0637\u0631\u064a\u0642  \u0633\u0631\u064a\u0639", 
+        "Tariiq sarii3"
+    ], 
+    "hobby": [
+        "\u0647\u0648\u0627\u064a\u0629  (\u062c)  \u0647\u0648\u0627\u064a\u0627\u062a", 
+        "hawaaya (pl.) hawaayaat"
+    ], 
+    "homework (or duty)": [
+        "\u0648\u0627\u062c\u0628  (\u062c)  \u0648\u0627\u062c\u0628\u0627\u062a", 
+        "waajib (pl.) waajibaat"
+    ], 
+    "horse": [
+        "\u062d\u0635\u0627\u0646  (\u062c)  \u062d\u0635\u0646", 
+        "HiSaan (pl.) HuSun"
+    ], 
+    "hour": [
+        "\u0633\u0627\u0639\u0629  (\u062c)  \u0633\u0627\u0639\u0627\u062a", 
+        "saa3a (pl.) saa3aat"
+    ], 
+    "house": [
+        "\u0628\u064a\u062a  (\u062c)  \u0628\u064a\u0648\u062a", 
+        "bayt (pl.) buyuut"
+    ], 
+    "human": [
+        "\u0625\u0646\u0633\u0627\u0646", 
+        "insaan"
+    ], 
+    "human being": [
+        "\u0628\u0646\u064a \u0622\u062f\u0645", 
+        "bani aadam"
+    ], 
+    "human being; mankind": [
+        "\u0628\u0634\u0631", 
+        "ba\u0161ar"
+    ], 
+    "immigrant": [
+        "\u0645\u0647\u0627\u062c\u0631  (\u062c)  \u0645\u0647\u0627\u062c\u0631\u0648\u0646", 
+        "muhaajir (pl.) muhaajiruun"
+    ], 
+    "individual (used in the context of group membership)": [
+        "\u0641\u0631\u062f  (\u062c)  \u0623\u0641\u0631\u0627\u062f", 
+        "fard (pl.) afraad"
+    ], 
+    "infidel": [
+        "\u0643\u0627\u0641\u0631  (\u062c)  \u0643\u0641\u0627\u0631", 
+        "kaafir (pl.) kuffaar"
+    ], 
+    "institute": [
+        "\u0645\u0639\u0647\u062f  (\u062c)  \u0645\u0639\u0627\u0647\u062f", 
+        "ma3had (pl.) ma3aahid"
+    ], 
+    "interview": [
+        "\u0645\u0642\u0627\u0628\u0644\u0629 \u0634\u062e\u0635\u064a\u0629", 
+        "muqaabala \u0161axSiyya"
+    ], 
+    "job": [
+        "\u0648\u0638\u064a\u0641\u0629  (\u062c)  \u0648\u0638\u0627\u0626\u0641", 
+        "waZiifa (pl.) waZaa'if"
+    ], 
+    "job vacancy": [
+        "\u0648\u0638\u064a\u0641\u0629 \u0634\u0627\u063a\u0631\u0629/\u062e\u0627\u0644\u064a\u0629", 
+        "waZiifa \u0161aa\u0121ira/xaaliya"
+    ], 
+    "judicial": [
+        "\u0642\u0636\u0627\u0626\u064a", 
+        "qaDaa'i"
+    ], 
+    "kindergarten": [
+        "\u0631\u0648\u0636\u0629 \u0627\u0644\u0623\u0637\u0641\u0627\u0644", 
+        "rawDat al-aTfaal"
+    ], 
+    "king": [
+        "\u0645\u0644\u0643  (\u062c)  \u0645\u0644\u0648\u0643", 
+        "malik (pl.) muluuk"
+    ], 
+    "kingdom": [
+        "\u0645\u0645\u0644\u0643\u0629  (\u062c)  \u0645\u0645\u0627\u0644\u0643", 
+        "mamlaka (pl.) mamaalik"
+    ], 
+    "lamb": [
+        "\u062e\u0631\u0648\u0641  (\u062c)  \u062e\u0631\u0627\u0641", 
+        "xaruuf (pl.) xiraaf"
+    ], 
+    "lecture": [
+        "\u0645\u062d\u0627\u0636\u0631\u0629", 
+        "muHaaDara"
+    ], 
+    "left": [
+        "\u064a\u0633\u0627\u0631", 
+        "yasaar"
+    ], 
+    "legislative": [
+        "\u062a\u0634\u0631\u064a\u0639\u064a", 
+        "ta\u0161rii3i"
+    ], 
+    "lesson": [
+        "\u062f\u0631\u0633  (\u062c)  \u062f\u0631\u0648\u0633", 
+        "dars (pl.) duruus"
+    ], 
+    "liberal": [
+        "\u0644\u064a\u0628\u0631\u0627\u0644\u064a", 
+        "liibiraali"
+    ], 
+    "life": [
+        "\u062d\u064a\u0627\u0629  (\u062c)  \u062d\u064a\u0648\u0627\u062a", 
+        "Hayaah (pl.) Hayawaat"
+    ], 
+    "light": [
+        "\u0641\u0627\u062a\u062d", 
+        "faatiH"
+    ], 
+    "local government": [
+        "\u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0627\u0644\u0645\u062d\u0644\u064a\u0629", 
+        "al-Hukuuma al-maHaliyya"
+    ], 
+    "longing, desire": [
+        "\u0634\u0648\u0642", 
+        "\u0161ooq"
+    ], 
+    "lord": [
+        "\u0631\u0628  (\u062c)  \u0623\u0631\u0628\u0627\u0628", 
+        "rabb (pl.) arbaab"
+    ], 
+    "love": [
+        "\u062d\u0628\u0651", 
+        "Hubb"
+    ], 
+    "m_crime": [], 
+    "m_gen": [], 
+    "m_gen2": [], 
+    "m_gen3": [], 
+    "m_govt": [], 
+    "m_war": [], 
+    "major, specialization": [
+        "\u062a\u062e\u0635\u0651\u0635  (\u062c)  \u062a\u062e\u0635\u0651\u0635\u0627\u062a \u0628\u0640", 
+        "taxaSSuS (pl.) taxaSSuSaat bi"
+    ], 
+    "mandate": [
+        "\u0627\u0646\u062a\u062f\u0627\u0628", 
+        "intidaab"
+    ], 
+    "mankind": [], 
+    "masters'": [
+        "\u0645\u0627\u062c\u0633\u062a\u064a\u0631", 
+        "majisteir"
+    ], 
+    "match": [
+        "\u0645\u0628\u0627\u0631\u0627\u0629  (\u062c)  \u0645\u0628\u0627\u0631\u0627\u062a", 
+        "mubaaraah (pl.) mubaaraat"
+    ], 
+    "mayor": [
+        "\u0639\u0645\u062f\u0629  (\u062c)  \u0639\u0645\u062f", 
+        "3umda (pl.) 3umad"
+    ], 
+    "meal": [
+        "\u0648\u062c\u0628\u0629  (\u062c)  \u0648\u062c\u0628\u0627\u062a", 
+        "wajba (pl.) wajabaat"
+    ], 
+    "medicine": [
+        "\u0627\u0644\u0637\u0628\u0651", 
+        "aT-Tibb"
+    ], 
+    "member": [
+        "\u0639\u0636\u0648  (\u062c)  \u0623\u0639\u0636\u0627\u0621", 
+        "3uDw (pl.) a3Daa'"
+    ], 
+    "messiah": [
+        "\u0645\u0633\u064a\u062d", 
+        "masiiH"
+    ], 
+    "mice": [
+        "\u0641\u0623\u0631  (\u062c)  \u0641\u0626\u0631\u0627\u0646", 
+        "fa'r (pl.) fi'raan"
+    ], 
+    "middle school": [
+        "\u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u0625\u0639\u062f\u0627\u062f\u064a\u0629", 
+        "al-madrasa l-i3daadiyya"
+    ], 
+    "midfield": [
+        "\u0648\u0633\u0637 \u0627\u0644\u0645\u0644\u0639\u0628", 
+        "wasT al-mal3ab"
+    ], 
+    "midfield line": [
+        "\u062e\u0637 \u0627\u0644\u0648\u0633\u0637", 
+        "xaTT al-wasT"
+    ], 
+    "minister": [
+        "\u0648\u0632\u064a\u0631  (\u062c)  \u0648\u0632\u0631\u0627\u0621", 
+        "waziir (pl.) wuzaraa'"
+    ], 
+    "minute": [
+        "\u062f\u0642\u064a\u0642\u0629  (\u062c) \u062f\u0642\u0627\u0626\u0642", 
+        "daqiiqa (pl.) daqaa'iq"
+    ], 
+    "moment": [
+        "\u0644\u062d\u0638\u0629  (\u062c)  \u0644\u062d\u0638\u0627\u062a", 
+        "laHZa (pl.) laHaZaat"
+    ], 
+    "monarch": [
+        "\u0639\u0627\u0647\u0644  (\u062c)  \u0639\u0648\u0627\u0647\u0644", 
+        "3aahil (pl.) 3awaahil"
+    ], 
+    "monotheism": [
+        "\u062a\u0648\u062d\u064a\u062f\u064a\u0629", 
+        "tawHiidiyya"
+    ], 
+    "morning": [
+        "\u0635\u0628\u0627\u062d", 
+        "SabaaH"
+    ], 
+    "mosaics": [
+        "\u0641\u0633\u064a\u0641\u0633\u0627\u0621", 
+        "fuseifisaa'"
+    ], 
+    "movement": [
+        "\u062d\u0631\u0643\u0629  (\u062c)  \u062d\u0631\u0643\u0627\u062a", 
+        "Haraka (pl.) Harakaat"
+    ], 
+    "murderer": [
+        "\u0633\u0641\u0627\u062d", 
+        "saffaaH"
+    ], 
+    "music": [
+        "\u0645\u0648\u0633\u064a\u0642\u0649", 
+        "muusiiqa"
+    ], 
+    "nation, homeland": [
+        "\u0648\u0637\u0646  (\u062c)  \u0623\u0648\u0637\u0627\u0646", 
+        "waTan (pl.) awTaan"
+    ], 
+    "national team": [
+        "\u0645\u0646\u062a\u062e\u0628", 
+        "muntaxab"
+    ], 
+    "nationalism": [
+        "\u0642\u0648\u0645\u064a\u0629", 
+        "qawmiyya"
+    ], 
+    "nature": [
+        "\u0627\u0644\u0637\u0628\u064a\u0639\u0629", 
+        "aT-Tabii3a"
+    ], 
+    "neo-conservative": [
+        "\u0645\u062d\u0627\u0641\u0638 \u062c\u062f\u064a\u062f", 
+        "muHaafiZ jadiid"
+    ], 
+    "news": [
+        "\u062e\u0628\u0631  (\u062c)  \u0623\u062e\u0628\u0627\u0631", 
+        "xabar (pl.) axbaar"
+    ], 
+    "nightingale": [
+        "\u0628\u0644\u0628\u0644  (\u062c)  \u0628\u0644\u0627\u0628\u0644", 
+        "bulbul (pl.) balaabil"
+    ], 
+    "noon": [
+        "\u0638\u0647\u0631", 
+        "Zuhr"
+    ], 
+    "north": [
+        "\u0634\u0645\u0627\u0644", 
+        "\u0161amaal"
+    ], 
+    "nursery school": [
+        "\u062d\u0636\u0627\u0646\u0629  (\u062c)  \u062d\u0636\u0627\u0646\u0627\u062a", 
+        "HaDaana (pl.) HaDaanaat"
+    ], 
+    "off-side": [
+        "\u062a\u0633\u0644\u0644", 
+        "tasallul"
+    ], 
+    "official": [
+        "\u0645\u0633\u0624\u0648\u0644  (\u062c)  \u0645\u0633\u0624\u0648\u0644\u0648\u0646", 
+        "mas'uul (pl.) mas'uuluun"
+    ], 
+    "oil paint": [
+        "\u0637\u0644\u0627\u0621 \u0627\u0644\u0632\u064a\u062a", 
+        "Tilaa' az-zeit"
+    ], 
+    "old": [
+        "\u0643\u0628\u064a\u0631  (\u062c)  \u0643\u0628\u0627\u0631 \u0627\u0644\u0633\u0646\u0651", 
+        "kabiir (pl.) kubaar as-sinn"
+    ], 
+    "ostrich": [
+        "\u0646\u0639\u0627\u0645\u0629  (\u062c)  \u0646\u0639\u0627\u0645", 
+        "na3aam(a)"
+    ], 
+    "outcry, clamor": [
+        "\u0636\u062c\u0651\u0629", 
+        "Dajja"
+    ], 
+    "owl": [
+        "\u0628\u0648\u0645\u0629  (\u062c)  \u0628\u0648\u0645", 
+        "buum(a)"
+    ], 
+    "paganism (pagan)": [
+        "\u0648\u062b\u0646\u064a\u0629 (\u0648\u062b\u0646\u064a)", 
+        "wataniyya (watani)"
+    ], 
+    "paint": [
+        "\u0637\u0644\u0627\u0621", 
+        "Tilaa'"
+    ], 
+    "painter, artist": [
+        "\u0631\u0633\u0627\u0645", 
+        "rassaam"
+    ], 
+    "pan-Arab nationalism": [
+        "\u0627\u0644\u0642\u0648\u0645\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629", 
+        "al-qawmiyya l-3arabiyya"
+    ], 
+    "panic, alarm, phobia (of)": [
+        "\u0647\u0644\u0639 \u0645\u0646", 
+        "hala3 min"
+    ], 
+    "parrot": [
+        "\u0628\u0628\u063a\u0627\u0621  (\u062c)  \u0628\u0628\u063a\u0627\u0648\u0627\u062a", 
+        "bab\u0121aa' (pl.) bab\u0121aawaat"
+    ], 
+    "party": [
+        "\u062d\u0632\u0628  (\u062c)  \u0623\u062d\u0632\u0627\u0628", 
+        "Hizb (pl.) aHzaab"
+    ], 
+    "passion": [
+        "\u0639\u0634\u0642", 
+        "3i\u0161q"
+    ], 
+    "patriotism": [
+        "\u0648\u0637\u0646\u064a\u0629", 
+        "waTaniyya"
+    ], 
+    "peacock": [
+        "\u0637\u0627\u0648\u0648\u0633  (\u062c)  \u0637\u0648\u0627\u0648\u064a\u0633", 
+        "Taawuus (pl.) Tawaawiis"
+    ], 
+    "people": [
+        "\u0646\u0627\u0633", 
+        "naas"
+    ], 
+    "people (of a country/region)": [
+        "\u0634\u0639\u0628  (\u062c)  \u0634\u0639\u0648\u0628", 
+        "\u0161a3b (pl.) \u0161u3uub"
+    ], 
+    "person": [
+        "\u0634\u062e\u0635  (\u062c)  \u0623\u0634\u062e\u0627\u0635", 
+        "\u0161axS (pl.) a\u0161xaaS"
+    ], 
+    "person (e.g. in a census, as a numerative in statistics)": [
+        "\u0646\u0633\u0645\u0629  (\u062c)  \u0646\u0633\u0645\u0627\u062a", 
+        "nasama (pl.) nasamaat"
+    ], 
+    "personality": [
+        "\u0634\u062e\u0635\u064a\u0629  (\u062c)  \r\n\u0634\u062e\u0635\u064a\u0627\u062a", 
+        "\u0161axSiyya (pl.) \u0161axSiyyaat"
+    ], 
+    "pig": [
+        "\u062e\u0646\u0632\u064a\u0631  (\u062c)  \u062e\u0646\u0627\u0632\u064a\u0631", 
+        "xinziir (pl.) xanaaziir"
+    ], 
+    "pigeon": [
+        "\u062d\u0645\u0627\u0645\u0629  (\u062c)  \u062d\u0645\u0627\u0645", 
+        "Hamaam(a)"
+    ], 
+    "planet": [
+        "\u0643\u0648\u0643\u0628  (\u062c)  \u0643\u0648\u0627\u0643\u0628", 
+        "kawkab (pl.) kawaakib"
+    ], 
+    "political": [
+        "\u0633\u064a\u0627\u0633\u064a", 
+        "siyaasi"
+    ], 
+    "politics": [
+        "\u0627\u0644\u0633\u064a\u0627\u0633\u0629", 
+        "as-siyaasa"
+    ], 
+    "population": [
+        "\u0639\u062f\u062f \u0633\u0643\u0627\u0646", 
+        "3adad sukkaan"
+    ], 
+    "position, office": [
+        "\u0645\u0646\u0635\u0628  (\u062c)  \u0645\u0646\u0627\u0635\u0628", 
+        "manSib (pl.) manaaSib"
+    ], 
+    "pottery": [
+        "\u0641\u062e\u0627\u0631", 
+        "faxxaar"
+    ], 
+    "presentation": [
+        "\u062a\u0642\u062f\u064a\u0645  (\u062c)  \u062a\u0642\u062f\u064a\u0645\u0627\u062a", 
+        "taqdiim (pl.) taqdiimaat"
+    ], 
+    "president; chairman": [
+        "\u0631\u0626\u064a\u0633  (\u062c)  \u0631\u0624\u0633\u0627\u0621", 
+        "ra'iis (pl.) ru'asaa'"
+    ], 
+    "prime minister": [
+        "\u0631\u0626\u064a\u0633 \u0627\u0644\u0648\u0632\u0631\u0627\u0621", 
+        "ra'iis al-wuzaraa'"
+    ], 
+    "prince": [
+        "\u0623\u0645\u064a\u0631  (\u062c)  \u0623\u0645\u0631\u0627\u0621", 
+        "amiir (pl.) umaraa'"
+    ], 
+    "prisoner": [
+        "\u0623\u0633\u064a\u0631  (\u062c)  \u0623\u0633\u0631\u0649", 
+        "asiir (pl.) asra"
+    ], 
+    "profession": [
+        "\u0645\u0647\u0646\u0629  (\u062c)  \u0645\u0647\u0646", 
+        "mihna (pl.) mihan"
+    ], 
+    "professor": [
+        "\u0623\u0633\u062a\u0627\u0630  (\u062c)  \u0627\u0633\u0627\u062a\u0630\u0629", 
+        "ustaad (pl.) asaatida"
+    ], 
+    "program": [
+        "\u0628\u0631\u0646\u0627\u0645\u062c  (\u062c)  \u0628\u0631\u0627\u0645\u062c", 
+        "barnaamaj (pl.) baraamij"
+    ], 
+    "promotion": [
+        "\u062a\u0631\u0642\u064a\u0629", 
+        "tarqiyya"
+    ], 
+    "propaganda; advertising": [
+        "\u062f\u0639\u0627\u064a\u0629", 
+        "di3aaya"
+    ], 
+    "proud (pride)": [
+        "\u0641\u062e\u0648\u0631 (\u0641\u062e\u0631)", 
+        "faxuur\r\n (faxr)"
+    ], 
+    "proxy war": [
+        "\u062d\u0631\u0628 \u0628\u0627\u0644\u0648\u0643\u0627\u0644\u0629", 
+        "Harb bil-wakaala"
+    ], 
+    "pupil": [
+        "\u062a\u0644\u0645\u064a\u0630  (\u062c)  \u062a\u0644\u0627\u0645\u064a\u0630", 
+        "tilmiid (pl.) talaamiid"
+    ], 
+    "qualifications": [
+        "\u0645\u0624\u0647\u0644\u0627\u062a", 
+        "mu'ahhilaat"
+    ], 
+    "rabbit": [
+        "\u0623\u0631\u0646\u0628  (\u062c)  \u0627\u0631\u0627\u0646\u0628", 
+        "arnab (pl.) araanib"
+    ], 
+    "raise": [
+        "\u0639\u0644\u0627\u0648\u0629  (\u062c)  \u0639\u0644\u0627\u0648\u0627\u062a", 
+        "3elaawa (pl.) 3elaawaat"
+    ], 
+    "rat": [
+        "\u062c\u0631\u0630  (\u062c)  \u062c\u0631\u0630\u0627\u0646", 
+        "jurad (pl.) jirdaan"
+    ], 
+    "real estate": [
+        "\u0639\u0642\u0627\u0631  (\u062c)  \u0639\u0642\u0627\u0631\u0627\u062a", 
+        "3aqaar (pl.) 3aqaaraat"
+    ], 
+    "recess, holiday": [
+        "\u0627\u062c\u0627\u0632\u0629  (\u062c)  \u0627\u062c\u0627\u0632\u0627\u062a", 
+        "ajaaza (pl.) ajaazaat"
+    ], 
+    "regretful (regret)": [
+        "\u0646\u0627\u062f\u0645 (\u0646\u062f\u0645)", 
+        "naadim\r\n (nadam)"
+    ], 
+    "religion": [
+        "\u062f\u064a\u0646  (\u062c)  \u0623\u062f\u064a\u0627\u0646", 
+        "diin (pl.) adyaan"
+    ], 
+    "representative": [
+        "\u0645\u0645\u062b\u0644  (\u062c)  \u0645\u0645\u062b\u0644\u0648\u0646", 
+        "mumattil (pl.) mumattiluun"
+    ], 
+    "reptile": [
+        "\u0632\u0627\u062d\u0641  (\u062c)  \u0632\u0648\u0627\u062d\u0641", 
+        "zaaHif (pl.) zawaaHif"
+    ], 
+    "republic": [
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629", 
+        "jumhuuriyya"
+    ], 
+    "research": [
+        "\u0623\u0628\u062d\u0627\u062b", 
+        "abHaat"
+    ], 
+    "restiveness, troubles": [
+        "\u0627\u0636\u0637\u0631\u0627\u0628  (\u062c)  \u0627\u0636\u0637\u0631\u0627\u0628\u0627\u062a", 
+        "iDTiraab (pl.) iDTiraabaat"
+    ], 
+    "resume": [
+        "\u0633\u064a\u0631\u0629  (\u062c)  \u0633\u064a\u0631 \u0630\u0627\u062a\u064a\u0629", 
+        "siira daatiyya (pl.) siyar daatiyya"
+    ], 
+    "revolution": [
+        "\u062b\u0648\u0631\u0629  (\u062c)  \u062b\u0648\u0631\u0627\u062a", 
+        "tawra (pl.) tawraat"
+    ], 
+    "right": [
+        "\u064a\u0645\u064a\u0646", 
+        "yamiin"
+    ], 
+    "road": [
+        "\u0637\u0631\u064a\u0642  (\u062c)  \u0637\u0631\u0642", 
+        "Tariiq (pl.) Turuq"
+    ], 
+    "rooster": [
+        "\u062f\u064a\u0643  (\u062c)  \u062f\u064a\u0648\u0643", 
+        "diik (pl.) duyuuk"
+    ], 
+    "sad (sadness)": [
+        "\u062d\u0632\u064a\u0646 (\u062d\u0632\u0646)", 
+        "Haziin"
+    ], 
+    "savior": [
+        "\u0645\u062e\u0644\u0651\u0635", 
+        "muxalliS"
+    ], 
+    "scandal-monger": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "school": [
+        "\u0645\u062f\u0631\u0633\u0629  (\u062c)  \u0645\u062f\u0627\u0631\u0633", 
+        "madrasa (pl.) madaaris"
+    ], 
+    "school subject (or material, as in building materials)": [
+        "\u0645\u0627\u062f\u0651\u0629  (\u062c)  \u0645\u0648\u0627\u062f\u0651", 
+        "maadda (pl.) mawaadd"
+    ], 
+    "second": [
+        "\u062b\u0627\u0646\u064a\u0629  (\u062c)  \u062b\u0648\u0627\u0646\u064a", 
+        "taanya (pl.) tawaani"
+    ], 
+    "secondary school": [
+        "\u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u062b\u0627\u0646\u0648\u064a\u0629", 
+        "al-madrasa t-taanawiyya"
+    ], 
+    "sect": [
+        "\u0637\u0627\u0626\u0641\u0629  (\u062c)  \u0637\u0648\u0627\u0626\u0641", 
+        "Taa'ifa (pl.) Tawaa'if"
+    ], 
+    "secularism": [
+        "\u0639\u0644\u0645\u0627\u0646\u064a\u0629", 
+        "3ilmaaniyya"
+    ], 
+    "sheep": [
+        "\u063a\u0646\u0645  (\u062c)  \u0623\u063a\u0646\u0627\u0645", 
+        "\u0121anam (pl.) a\u0121naam"
+    ], 
+    "side line": [
+        "\u062e\u0637 \u0627\u0644\u062a\u0645\u0627\u0633", 
+        "xaTT at-tamaass"
+    ], 
+    "small bird, sparrow": [
+        "\u0639\u0635\u0641\u0648\u0631  (\u062c)  \u0639\u0635\u0627\u0641\u064a\u0631", 
+        "3uSfuur (pl.) 3aSaafiir"
+    ], 
+    "smiling (adjective)": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "snake": [
+        "\u062b\u0639\u0628\u0627\u0646  (\u062c)  \u062b\u0639\u0627\u0628\u064a\u0646", 
+        "tu3baan (pl.) ta3aabiin"
+    ], 
+    "soccer": [
+        "\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645", 
+        "kurat al-qadam"
+    ], 
+    "socialism": [
+        "\u0627\u0634\u062a\u0631\u0627\u0643\u064a\u0629", 
+        "i\u0161tiraakiyya"
+    ], 
+    "south": [
+        "\u062c\u0646\u0648\u0628", 
+        "januub"
+    ], 
+    "sparrow": [
+        "\u0639\u0635\u0641\u0648\u0631 \u062f\u0648\u0631\u064a", 
+        "3uSfuur duury"
+    ], 
+    "spokesman": [
+        "\u0645\u062a\u062d\u062f\u062b \u0628\u0627\u0633\u0645", 
+        "mutaHaddit bism"
+    ], 
+    "sport": [
+        "\u0631\u064a\u0627\u0636\u0629  (\u062c)  \u0631\u064a\u0627\u0636\u0627\u062a", 
+        "riyaaDa (pl.) riyaaDaat"
+    ], 
+    "sports": [], 
+    "stadium": [
+        "\u0627\u0633\u062a\u0627\u062f", 
+        "istaad"
+    ], 
+    "statue": [
+        "\u062a\u0645\u062b\u0627\u0644  (\u062c)  \u062a\u0645\u0627\u062b\u064a\u0644", 
+        "timtaal (pl.) tamaatiil"
+    ], 
+    "stork": [
+        "\u0644\u0642\u0644\u0642  (\u062c)  \u0644\u0642\u0627\u0644\u0642", 
+        "laqlaq (pl.) laqaaliq"
+    ], 
+    "street": [
+        "\u0634\u0627\u0631\u0639  (\u062c)  \u0634\u0648\u0627\u0631\u0639", 
+        "\u0161aari3 (pl.) \u0161awaari3"
+    ], 
+    "strife": [
+        "\u0646\u0632\u0627\u0639", 
+        "nizaa3"
+    ], 
+    "student": [
+        "\u0637\u0627\u0644\u0628  (\u062c)  \u0637\u0644\u0627\u0628", 
+        "Taalib (pl.) Tullaab"
+    ], 
+    "studies": [
+        "\u062f\u0631\u0627\u0633\u0627\u062a", 
+        "diraasaat"
+    ], 
+    "sunrise": [
+        "\u0634\u0631\u0648\u0642 \u0627\u0644\u0634\u0645\u0633", 
+        "\u0161uruuq a\u0161-\u0161ams"
+    ], 
+    "sunset": [
+        "\u063a\u0631\u0648\u0628 \u0627\u0644\u0634\u0645\u0633", 
+        "\u0121uruub a\u0161-\u0161ams"
+    ], 
+    "swallow": [
+        "\u0639\u0635\u0641\u0648\u0631 \u0627\u0644\u062c\u0646\u0629", 
+        "3uSfuur al-janna"
+    ], 
+    "swan": [
+        "\u0628\u062c\u0639\u0629  (\u062c)  \u0628\u062c\u0639", 
+        "baja3(a)"
+    ], 
+    "teacher": [
+        "\u0645\u062f\u0631\u0651\u0633", 
+        "mudarris"
+    ], 
+    "team": [
+        "\u0641\u0631\u064a\u0642", 
+        "fariiq"
+    ], 
+    "tear": [
+        "\u062f\u0645\u0639  (\u062c)  \u062f\u0645\u0648\u0639", 
+        "dam3 (pl.) dumuu3"
+    ], 
+    "tech": [], 
+    "test": [
+        "\u0627\u062e\u062a\u0628\u0627\u0631  (\u062c)  \u0627\u062e\u062a\u0628\u0627\u0631\u0627\u062a", 
+        "ixtibaar (pl.) ixtibaaraat"
+    ], 
+    "textbook": [
+        "\u0643\u062a\u0627\u0628 \u0645\u062f\u0631\u0633\u064a  (\u062c) \u0643\u062a\u0628 \u0645\u062f\u0631\u0633\u064a\u0629", 
+        "kitaab madrasi (pl.) kutub madrasiyya"
+    ], 
+    "the Cold War": [
+        "\u0627\u0644\u062d\u0631\u0628 \u0627\u0644\u0628\u0627\u0631\u062f\u0629", 
+        "al-Harb al-baarida"
+    ], 
+    "theology": [
+        "\u0627\u0644\u0625\u0644\u0647\u064a\u0627\u062a", 
+        "al-ilhiyyaat"
+    ], 
+    "time": [
+        "\u0648\u0642\u062a  (\u062c)  \u0623\u0648\u0642\u0627\u062a", 
+        "waqt (pl.) awqaat"
+    ], 
+    "time (as a general concept)": [
+        "\u0627\u0644\u0632\u0645\u0627\u0646", 
+        "az-zamaan"
+    ], 
+    "time (countable unit; as in \"three times, four times,\" etc.)": [
+        "\u0645\u0631\u0629  (\u062c)  \u0645\u0631\u0627\u062a", 
+        "marra (pl.) marraat"
+    ], 
+    "to apologize to s.o. for st.": [
+        "\u0627\u0639\u062a\u0630\u0631 - \u064a\u0639\u062a\u0630\u0631 (\u0627\u0639\u062a\u0630\u0627\u0631) \u0644\u0640 \u0639\u0646 \u0640\u0640", 
+        "i3tadara - ya3tadiru (i3tidaar) li-s.o. 3an s.t."
+    ], 
+    "to argue with s.o.": [
+        "\u062c\u0627\u062f\u0644 - \u064a\u062c\u0627\u062f\u0644 (\u0645\u062c\u0627\u062f\u0644\u0629)", 
+        "jaadala - yujaadilu (mujaadala)"
+    ], 
+    "to be (not used in present tense)": [
+        "\u0643\u0627\u0646 - \u064a\u0643\u0648\u0646 (\u0643\u0648\u0646)", 
+        "kaana - yakuunu (koon)"
+    ], 
+    "to be content/satisfied with": [
+        "\u0631\u0636\u0649\r\n - \u064a\u0631\u0636\u0649 (\u0631\u0636\u0649) \u0628\u0640", 
+        "raDiya - yarDa (riDan) bi"
+    ], 
+    "to be disgraced, made a subject of scandal": [
+        "\u0627\u0646\u0641\u0636\u062d - \u064a\u0646\u0641\u0636\u062d (\u0627\u0646\u0641\u0636\u0627\u062d)", 
+        "infaDaHa - yanfaDiHu (infiDaaH)"
+    ], 
+    "to be proud of": [
+        "\u0627\u0641\u062a\u062e\u0631 - \u064a\u0641\u062a\u062e\u0631 \r\n(\u0627\u0641\u062a\u062e\u0627\u0631) \u0628\u0640", 
+        "iftaxara - yaftaxiru (iftixaar) bi"
+    ], 
+    "to be really happy about s.t. or really enjoy it": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "to become": [
+        "\u0623\u0635\u0628\u062d - \u064a\u0635\u0628\u062d (\u0627\u0635\u0628\u0627\u062d)", 
+        "aSbaHa - yuSbiHu (iSbaaH)"
+    ], 
+    "to belittle, cut down to size": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "to bellow at": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "to blame s.o.": [
+        "\u0639\u062a\u0628 \u2013 \u064a\u0639\u062a\u0628 (\u0639\u062a\u0628) \u0639\u0644\u0649", 
+        "3ataba - ya3tibu (3atb) 3ala s.o."
+    ], 
+    "to blame s.o. for s.t.": [
+        "\u0644\u0627\u0645 - \u064a\u0644\u0648\u0645 (\u0644\u0648\u0645) \u0640\u0640 \u0639\u0644\u0649 \u0640\u0640", 
+        "laam - yaluum (loom) s.o. 3ala s.t."
+    ], 
+    "to bring, fetch": [
+        "\u0623\u062d\u0636\u0631 \u2013 \u064a\u062d\u0636\u0631 (\u0627\u062d\u0636\u0627\u0631)", 
+        "aHDara - yuHDiru (iHDaar)"
+    ], 
+    "to change (s.t.)": [
+        "\u063a\u064a\u0651\u0631 - \u064a\u063a\u064a\u0651\u0631 (\u062a\u063a\u064a\u064a\u0631)", 
+        "\u0121ayyara - yu\u0121ayyiru (ta\u0121yiir)"
+    ], 
+    "to come": [
+        "\u062c\u0627\u0621 \u2013 \u064a\u062c\u0626 (\u062c\u064a\u0626\u0629)", 
+        "jaa'a - yajii'u (jii'a)"
+    ], 
+    "to complain (about)": [
+        "\u0634\u0643\u0649 - \u064a\u0634\u0643\u0648 (\u0634\u0643\u0648\u0649) \u0645\u0646", 
+        "\u0161aka - ya\u0161ku (\u0161akwa) min"
+    ], 
+    "to count": [
+        "\u0639\u062f\u0651 - \u064a\u0639\u062f\u0651 (\u0639\u062f\u0651)", 
+        "3adda - ya3uddu (3add)"
+    ], 
+    "to cry": [
+        "\u0628\u0643\u0649 - \u064a\u0628\u0643\u064a (\u0628\u0643\u0649)", 
+        "baka - yabki (buka)"
+    ], 
+    "to dance": [
+        "\u0631\u0642\u0635 - \u064a\u0631\u0642\u0635 (\u0631\u0642\u0635)", 
+        "raqaSa - yarquSu (raqS)"
+    ], 
+    "to deceive, beguile": [
+        "\u063a\u0631\u0651\u0631 - \u064a\u063a\u0631\u0651\u0631 (\u062a\u063a\u0631\u064a\u0631) \u0628\u0640", 
+        "\u0121arrara - yu\u0121arriru (ta\u0121riir) bi"
+    ], 
+    "to deceive, dupe": [
+        "\u062e\u062f\u0639 \u2013 \u064a\u062e\u062f\u0639 (\u062e\u062f\u0639\u0629)", 
+        "xada3a - yaxda3u (xud3a)"
+    ], 
+    "to deduce (an inference)": [
+        "\u0627\u0633\u062a\u0646\u062a\u062c - \u064a\u0633\u062a\u0646\u062a\u062c (\u0627\u0633\u062a\u0646\u062a\u0627\u062c)", 
+        "istantaja - yastantiju (istintaaj)"
+    ], 
+    "to design": [
+        "\u0635\u0645\u0645 - \u064a\u0635\u0645\u0645 (\u062a\u0635\u0645\u064a\u0645)", 
+        "Sammama - yuSammimu (taSmiim)"
+    ], 
+    "to do; to make": [
+        "\u0641\u0639\u0644 - \u064a\u0641\u0639\u0644 (\u0641\u0639\u0644)", 
+        "fa3ala - yaf3alu (fa3l)"
+    ], 
+    "to draw or paint": [
+        "\u0631\u0633\u0645 - \u064a\u0631\u0633\u0645 (\u0631\u0633\u0645)", 
+        "rasama - yarsumu (rasm)"
+    ], 
+    "to embrace, hug": [
+        "\u062d\u0636\u0646 - \u064a\u062d\u0636\u0646 \r\n(\u062d\u0636\u0646)", 
+        "HaDana - yaHDunu (HaDn)"
+    ], 
+    "to excuse and sympathize with, make allowances for": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "to fall in love with (her)": [
+        "\u0648\u0642\u0639 - \u064a\u0642\u0639 (\u0648\u0642\u0648\u0639) \u0641\u064a \u062d\u0628(\u0647\u0627)", 
+        "waqa3a - yaqa3u (wuquu3) fi Hobb(iha)"
+    ], 
+    "to feel": [
+        "\u0634\u0639\u0631 - \u064a\u0634\u0639\u0631 (\u0634\u0639\u0648\u0631) \u0628\u0640", 
+        "\u0161a3ara - ya\u01613ura (\u0161u3uur) bi"
+    ], 
+    "to fight with s.o.": [
+        "\u062e\u0627\u0646\u0642 - \u064a\u062e\u0627\u0646\u0642 (\u0645\u062e\u0627\u0646\u0642\u0629)", 
+        "xaanaqa - yuxaaniqu (muxaanaqa)"
+    ], 
+    "to fire": [
+        "\u0637\u0631\u062f - \u064a\u0637\u0631\u062f (\u0637\u0631\u062f) \u0647 \u0645\u0646 \u0627\u0644\u0639\u0645\u0644", 
+        "Tarada - yaTrudu (Tard) (s.o.) min al-3amal"
+    ], 
+    "to forgive s.o. for st.": [
+        "\u0633\u0627\u0645\u062d - \u064a\u0633\u0627\u0645\u062d (\u0645\u0633\u0627\u0645\u062d\u0629) \u0640\u0640 \u0641\u064a \u0640\u0640", 
+        "saamaHa - yusaamiHu (musaamaHa) \r\ns.o. fi s.t."
+    ], 
+    "to frown, scowl": [
+        "\u062a\u062c\u0647\u0651\u0645 - \u064a\u062a\u062c\u0647\u0651\u0645 (\u062a\u062c\u0647\u0645)", 
+        "tajahhama - yatajahhamu (tajahhum)"
+    ], 
+    "to gasp": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "to go (to)": [
+        "\u0630\u0647\u0628 - \u064a\u0630\u0647\u0628 (\u0630\u0647\u0627\u0628) \u0625\u0644\u0649", 
+        "dahaba - yadhabu (dahaab) ila"
+    ], 
+    "to grumble, complain (about)": [
+        "\u062a\u0630\u0645\u0651\u0631 - \u064a\u062a\u0630\u0645\u0651\u0631 (\u062a\u0630\u0645\u0651\u0631) \u0645\u0646", 
+        "tadammara - yatadammaru (tadammur) min"
+    ], 
+    "to hide or repress one's feelings": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "to hire": [
+        "\u062a\u0648\u0638\u0641 - \u064a\u062a\u0648\u0638\u0641 (\u062a\u0648\u0638\u0641)", 
+        "tawaZZafa - yatawaZZafu (tawaZZuf)"
+    ], 
+    "to insist on": [
+        "\u0623\u0635\u0631\u0651 - \u064a\u0635\u0631\u0651 (\u0627\u0635\u0631\u0627\u0631) \u0639\u0644\u0649", 
+        "aSarra - yuSirru (iSraar) 3ala"
+    ], 
+    "to insult, revile": [
+        "\u0634\u062a\u0645 - \u064a\u0634\u062a\u0645 (\u0634\u062a\u0645)", 
+        "\u0161atama - ya\u0161timu (\u0161atm)"
+    ], 
+    "to kiss s.o.": [
+        "\u0642\u0628\u0651\u0644 - \u064a\u0642\u0628\u0651\u0644 \r\n(\u062a\u0642\u0628\u064a\u0644)", 
+        "qabbala - yuqabbilu (taqbiil)"
+    ], 
+    "to laugh": [
+        "\u0636\u062d\u0643 - \u064a\u0636\u062d\u0643 (\u0636\u062d\u0643)", 
+        "DaHika - yaDHaku (DaHik)"
+    ], 
+    "to mislead": [
+        "\u0636\u0644\u0651\u0644 \u2013 \u064a\u0636\u0644\u0651\u0644 (\u062a\u0636\u0644\u064a\u0644)", 
+        "Dallala - yuDallilu (taDliil)"
+    ], 
+    "to moan, groan": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "to overthrow": [
+        "\u0623\u0637\u0627\u062d - \u064a\u0637\u0648\u062d (\u0627\u0637\u0627\u062d\u0629)", 
+        "aTaaHa - yaTuuHu (iTaaHa)"
+    ], 
+    "to pout, sulk": [
+        "\u0628\u0648\u0651\u0632 - \u064a\u0628\u0648\u0651\u0632 (\u062a\u0628\u0648\u064a\u0632)", 
+        "bawwaza - yubawwizu (tabwiiz)"
+    ], 
+    "to put": [
+        "\u0648\u0636\u0639 - \u064a\u0636\u0639 (\u0648\u0636\u0639)", 
+        "waDa3a - yaDa3u (waD3)"
+    ], 
+    "to regret s.t.": [
+        "\u0646\u062f\u0645 - \u064a\u0646\u062f\u0645 \r\n(\u0646\u062f\u0645) \u0639\u0644\u0649", 
+        "nadima - yandamu (nadam) 3ala"
+    ], 
+    "to run": [
+        "\u062c\u0631\u0649 - \u064a\u062c\u0631\u064a (\u062c\u0631\u064a)", 
+        "jara - yajri (jary)"
+    ], 
+    "to scold s.o. for s.t.": [
+        "\u0623\u0646\u0651\u0628 - \u064a\u0624\u0646\u0651\u0628 (\u062a\u0623\u0646\u064a\u0628) \u0640\u0640 \u0639\u0644\u0649 \u0640\u0640", 
+        "annaba - yu'annibu (ta'niib) \r\ns.o. 3ala s.t."
+    ], 
+    "to scream, shout": [
+        "\u0635\u0631\u062e - \u064a\u0635\u0631\u062e (\u0635\u0631\u0627\u062e)", 
+        "Saraxa - yaSruxu (Suraax)"
+    ], 
+    "to sculpt": [
+        "\u0646\u062d\u062a - \u064a\u0646\u062d\u062a (\u0646\u062d\u062a)", 
+        "naHata - yanHutu (naHt)"
+    ], 
+    "to sigh": [
+        "\u062a\u0646\u0647\u0651\u062f - \u064a\u062a\u0646\u0647\u0651\u062f \r\n(\u062a\u0646\u0647\u0651\u062f)", 
+        "tanahhada - yatanahhadu (tanahhud)"
+    ], 
+    "to smile": [
+        "\u0627\u0628\u062a\u0633\u0645 - \u064a\u0628\u062a\u0633\u0645 (\u0627\u0628\u062a\u0633\u0627\u0645)", 
+        "ibtasama - yabtasimu (ibtisaam)"
+    ], 
+    "to speak rudely to s.o.": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "to spread scandal/gossip maliciously": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "to sympathize with": [
+        "\u0639\u0637\u0641 - \u064a\u0639\u0637\u0641 (\u0639\u0637\u0641) \u0639\u0644\u0649", 
+        "3aTafa - ya3Tifu (3aTf) 3ala"
+    ], 
+    "to take": [
+        "\u0623\u062e\u0630 \u2013 \u064a\u0623\u062e\u0630 (\u0623\u062e\u0630)", 
+        "axada - ya'xudu (axd)"
+    ], 
+    "to to break off relations with s.o. because of a dispute, stop speaking to them": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "to train": [
+        "\u062f\u0631\u0651\u0628 - \u064a\u062f\u0631\u0651\u0628 (\u062a\u062f\u0631\u064a\u0628)", 
+        "darraba - yudarribu (tadriib)"
+    ], 
+    "to walk": [
+        "\u0645\u0634\u0649 - \u064a\u0645\u0634\u064a (\u0645\u0634\u064a)", 
+        "ma\u0161a - yam\u0161i (ma\u0161y)"
+    ], 
+    "to work": [
+        "\u0639\u0645\u0644 - \u064a\u0639\u0645\u0644 (\u0639\u0645\u0644)", 
+        "3amala - ya3milu (3amal)"
+    ], 
+    "to yell at": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "totalitarianism": [
+        "\u0634\u0645\u0648\u0644\u064a\u0629", 
+        "\u0161umuuliyya"
+    ], 
+    "tunnel": [
+        "\u0646\u0641\u0642  (\u062c)  \u0627\u0646\u0641\u0627\u0642", 
+        "nafaq (pl.) anfaaq"
+    ], 
+    "turkey": [
+        "\u062f\u064a\u0643 \u0631\u0648\u0645\u064a", 
+        "diik ruumi"
+    ], 
+    "tyrant": [
+        "\u0645\u0633\u062a\u0628\u062f\u0651", 
+        "mustabidd"
+    ], 
+    "unemployment": [
+        "\u0628\u0637\u0627\u0644\u0629", 
+        "baTaala"
+    ], 
+    "university": [
+        "\u062c\u0627\u0645\u0639\u0629  (\u062c)  \u062c\u0627\u0645\u0639\u0627\u062a", 
+        "jaami3a (pl.) jaami3aat"
+    ], 
+    "verbs": [], 
+    "very happy/pleased": [
+        "\u00a0", 
+        "\u00a0"
+    ], 
+    "veto": [
+        "\u0646\u0642\u0636", 
+        "naqD"
+    ], 
+    "victim": [
+        "\u0636\u062d\u064a\u0629  (\u062c)  \u0636\u062d\u0627\u064a\u0627", 
+        "DaHiyya (pl.) DaHaaya"
+    ], 
+    "war": [
+        "\u062d\u0631\u0628 (\u062c)  \u062d\u0631\u0648\u0628", 
+        "Harb (pl.) Huruub (fem.)"
+    ], 
+    "weaving": [
+        "\u0646\u0633\u064a\u062c", 
+        "nasiij"
+    ], 
+    "week": [
+        "\u0623\u0633\u0628\u0648\u0639  (\u062c)  \u0623\u0633\u0627\u0628\u064a\u0639", 
+        "usbuu3 (pl.) asaabii3"
+    ], 
+    "west": [
+        "\u063a\u0631\u0628", 
+        "\u0121arb"
+    ], 
+    "with distinction": [
+        "\u0628\u0627\u0645\u062a\u064a\u0627\u0632", 
+        "bimtiyaaz"
+    ], 
+    "work": [
+        "\u0639\u0645\u0644", 
+        "3amal"
+    ], 
+    "world": [
+        "\u0639\u0627\u0644\u0645  (\u062c)  \u0639\u0648\u0627\u0644\u0645", 
+        "3aalam (pl.) 3awaalim"
+    ], 
+    "year": [
+        "\u0633\u0646\u0629  (\u062c)  \u0633\u0646\u0648\u0627\u062a", 
+        "sana (pl.) sanawaat"
+    ], 
+    "yearning": [
+        "\u062d\u0646\u064a\u0646", 
+        "Haniin"
+    ], 
+    "young (or small)": [
+        "\u0635\u063a\u064a\u0631  (\u062c)  \u0635\u063a\u0627\u0631", 
+        "Sa\u0121iir (pl.) Su\u0121aar"
+    ]
+}

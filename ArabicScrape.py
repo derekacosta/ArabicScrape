@@ -54,8 +54,13 @@ def main():
     #pp = pprint.PrettyPrinter(indent=4)
     #print pp.pprint(data.values().get("cat"))
     #print pp.pprint(data)
-    with open('result.json', 'w') as fp:
-        json.dump(data, fp, sort_keys=True)
+    #with open('result.json', 'w') as fp:
+     #   json.dump(data, fp, sort_keys=True)
+    j = json.dumps(data, indent=4, sort_keys=True)
+    f = open('result.json', 'w')
+    print >> f, j
+    f.close()
+
 
 if __name__ == "__main__":
     main()
