@@ -11,13 +11,11 @@ import re
 
 data = dict()
 
-temp  = []
-
 def scrape_title_and_url(soup, url_word):
     try:
-        data[url_word] = []
         for items in soup.findAll("tr"):
             title  = str(items.findAll("td")[0].text)
+            data.setdefault(url_word, [])
             if str(title) != 'English':
                 for content in items.findAll("td"):
                     if content != items.findAll("td")[0]:
@@ -51,7 +49,7 @@ def main():
         url_split = url.split("/")[-1:]
         url_word = url_split[0].split(".")[0]
         scrape_title_and_url(soup, url_word)
-        break
+        #break
 
     #pp = pprint.PrettyPrinter(indent=4)
     #print pp.pprint(data.values().get("cat"))
