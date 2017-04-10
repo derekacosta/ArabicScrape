@@ -9,7 +9,7 @@ import sys
 import pprint
 import re
 
-data = {}
+data = dict()
 
 temp  = []
 
@@ -22,8 +22,10 @@ def scrape_title_and_url(soup, url_word):
                 for content in items.findAll("td"):
                     if content != items.findAll("td")[0]:
                         content = re.sub("<[^>]*>", "", content.encode_contents())
-                        if content != "" or '' or None:
-                            data[url_word].append({str(title) : str(content)})
+                        if content != "" or '' or None or "''":
+                            data.setdefault(str(title), [])
+                            if len(data[title]) < 2:
+                                data[title].append(str(content))
                     elif str(title) or title == " " or "" or '' or None:
                         continue
                     elif str(content) or content == " " or "" or '' or None:
@@ -49,10 +51,14 @@ def main():
         url_split = url.split("/")[-1:]
         url_word = url_split[0].split(".")[0]
         scrape_title_and_url(soup, url_word)
+        break
 
+    #pp = pprint.PrettyPrinter(indent=4)
+    #print pp.pprint(data.values().get("cat"))
+    #print pp.pprint(data)
+    with open('result.json', 'w') as fp:
+        json.dump(data, fp, sort_keys=True)
 
-    pp = pprint.PrettyPrinter(indent=4)
-    print pp.pprint(data)
 if __name__ == "__main__":
     main()
 
